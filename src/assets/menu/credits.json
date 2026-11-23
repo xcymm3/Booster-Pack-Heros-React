@@ -1,0 +1,162 @@
+[
+  {
+    "heading": "ui.credits.gameBy",
+    "names": [],
+    "roles": [
+      {
+        "label": "ui.credits.role.createdBy",
+        "names": [
+          "Jordy Adan"
+        ]
+      },
+      {
+        "label": "ui.credits.role.collaboration",
+        "names": [
+          "Mariana Rufatto"
+        ]
+      }
+    ]
+  },
+  {
+    "heading": "ui.credits.publishedBy",
+    "names": [],
+    "roles": [
+      {
+        "label": "ui.credits.role.marketing",
+        "names": [
+          "Emil Stidsholt"
+        ]
+      },
+      {
+        "label": "ui.credits.role.product",
+        "names": [
+          "Emil Kjæhr"
+        ]
+      },
+      {
+        "label": "ui.credits.role.business",
+        "names": [
+          "Jeppe Kønig"
+        ]
+      },
+      {
+        "label": "ui.credits.role.playerInsights",
+        "names": [
+          "Maja From Andersen",
+          "Agata Foti"
+        ]
+      },
+      {
+        "label": "ui.credits.role.art",
+        "names": [
+          "Sophie Refshauge",
+          "Magnus Wahlers"
+        ]
+      },
+      {
+        "label": "ui.credits.role.marketingArt",
+        "names": [
+          "Frederikke Frydenlund\n(Happy Grove Studio)"
+        ]
+      },
+      {
+        "label": "ui.credits.role.videoTrailer",
+        "names": [
+          "Louise Lynggaard Olsen"
+        ]
+      },
+      {
+        "label": "ui.credits.role.qa",
+        "names": [
+          "Sarah Lusher",
+          "Nicole Wiberg"
+        ]
+      },
+      {
+        "label": "ui.credits.role.portingOptimizations",
+        "names": [
+          "Christian Biskopstø Thomsen"
+        ]
+      }
+    ]
+  },
+  {
+    "heading": "ui.credits.localizationby",
+    "names": [
+      "ECI Games"
+    ],
+    "roles": []
+  },
+  {
+    "heading": "ui.credits.additionalPRandMarketing",
+    "names": [
+      "Neon Noroshi"
+    ],
+    "roles": []
+  },
+  {
+    "heading": "ui.credits.thirdparty",
+    "names": [],
+    "roles": [
+      {
+        "label": "ui.credits.role.music",
+        "names": [
+          "David KBD",
+          "Abstraction",
+          "Dani Maccari"
+        ]
+      },
+      {
+        "label": "ui.credits.role.sfx",
+        "names": [
+          "Leohpaz",
+          "Kornbits",
+          "Makoto Hiramatsu",
+          "Gregor Quendel"
+        ]
+      },
+      {
+        "label": "ui.credits.role.vfx",
+        "names": [
+          "pimen",
+          "kiddolink",
+          "pozac",
+          "Raphael Hatencia"
+        ]
+      }
+    ]
+  },
+  {
+    "heading": "ui.credits.specialThanks",
+    "names": [],
+    "roles": [
+      {
+        "label": "Playtesters",
+        "names": [
+          "Douglas \"Doug\" Henning",
+          "Gustavo \"Gina\" Henrique Paetzold",
+          "Henrique \"Kikito\"",
+          "Lucas \"Cosko\" Luiz Dal Bosco",
+          "Leo \"Zito\" Moura",
+          "João \"Jora\" Gurgacz",
+          "Marco \"Markito\" Portugal",
+          "Rafael \"Pep\" Demski",
+          "Patrick \"Patrola\" Fernandes",
+          "Renato \"Reco\" Martins",
+          "Renato \"Mafleusp\" Simões",
+          "Thiago Leite",
+          "William \"Zina\" Clos",
+          "Kevin Borror",
+          "Joshua Sachtleben",
+          "Shio Jaesk",
+          "Danyil Makarenko (Ah2y0)",
+          "Marshall Abel",
+          "Aisling Blaire",
+          "Ihor G.",
+          "Nick Armellino",
+          "BloodEp"
+        ]
+      }
+    ]
+  }
+]

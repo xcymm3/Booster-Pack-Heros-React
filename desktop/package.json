@@ -1,0 +1,7 @@
+{
+  "name": "booster-pack-heroes",
+  "version": "0.1.0",
+  "description": "Booster Pack Heroes",
+  "main": "main.cjs",
+  "private": true
+}

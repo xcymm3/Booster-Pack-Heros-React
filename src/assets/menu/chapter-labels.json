@@ -1,0 +1,54 @@
+{
+  "WaveChapter.title": {
+    "en": "Chapter {0}",
+    "zh-CN": "第 {0} 章"
+  },
+  "WaveChapter1.description": {
+    "en": "Drums in the Dark",
+    "zh-CN": "黑暗中的鼓声"
+  },
+  "WaveChapter2.description": {
+    "en": "Eyes without Hunger",
+    "zh-CN": "无饥之眼"
+  },
+  "WaveChapter3.description": {
+    "en": "The Witch from the Abyss",
+    "zh-CN": "来自深渊的巫师"
+  },
+  "WaveChapter4.description": {
+    "en": "The Last Crucible",
+    "zh-CN": "终极试炼"
+  },
+  "WaveChapter5.description": {
+    "en": "The Chaos Citadel",
+    "zh-CN": "混沌堡垒"
+  },
+  "WaveChapter1.description.p1": {
+    "en": "Drums in the Dark II",
+    "zh-CN": "黑暗中的鼓声 II"
+  },
+  "WaveChapter1.description.p2": {
+    "en": "Drums in the Dark III",
+    "zh-CN": "黑暗中的鼓声 III"
+  },
+  "WaveChapter2.description.p1": {
+    "en": "Eyes without Hunger II",
+    "zh-CN": "无饥之眼 II"
+  },
+  "WaveChapter2.description.p2": {
+    "en": "Eyes without Hunger III",
+    "zh-CN": "无饥之眼 III"
+  },
+  "WaveChapter3.description.p1": {
+    "en": "The Witch from the Abyss II",
+    "zh-CN": "来自深渊的巫师 II"
+  },
+  "WaveChapter3.description.p2": {
+    "en": "The Witch from the Abyss III",
+    "zh-CN": "来自深渊的巫师 III"
+  },
+  "WaveChapter4.description.p2": {
+    "en": "The Last Crucible II",
+    "zh-CN": "终极试炼 II"
+  }
+}

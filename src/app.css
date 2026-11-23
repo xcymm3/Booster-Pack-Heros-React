@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Jersey 10';
+  src: url('./assets/jersey10.ttf') format('truetype');
+  font-display: swap;
+}
+
+:root {
+  color-scheme: dark;
+  --black: #050807;
+  --ground: #0e1e1a;
+  --text: #e3e5dc;
+  --text-subtle: #adb6ad;
+  --mastery: #7d9fc4;
+  --coin: #c4ab5b;
+  --focus: #e2d8a1;
+  --shade: #020504b5;
+  --panel: #101712;
+  --line: #606b5c;
+  --muted-gold: #515132;
+  --font-numbers: 'Jersey 10', ui-monospace, monospace;
+  --font-ui: 'Microsoft YaHei UI', 'PingFang SC', system-ui, sans-serif;
+}
+
+html:root, body {
+  margin: 0;
+  min-width: 0;
+  min-height: 100%;
+  background: var(--black);
+  color: var(--text);
+  font-family: var(--font-ui);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+[type="button"] { font: inherit; color: inherit; }
+
+.screen-reader {
+  position: absolute;
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  overflow: clip;
+  white-space: nowrap;
+}

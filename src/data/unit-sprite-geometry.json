@@ -1,0 +1,2498 @@
+{
+  "chapter-2-3/793-hero_illusionist_0.png": {
+    "pathId": 793,
+    "rect": [16, 0, 30, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/819-new-sprites-test_28.png": {
+    "pathId": 819,
+    "rect": [126, 1794, 32, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [2.04290771484375, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/1145-hero_illusionist_1.png": {
+    "pathId": 1145,
+    "rect": [64, 0, 64, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [20.07611846923828, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/833-hero_illusionist_4.png": {
+    "pathId": 833,
+    "rect": [256, 0, 64, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/710-special_portal_0.png": {
+    "pathId": 710,
+    "rect": [22, 0, 23, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/677-special_portal_1.png": {
+    "pathId": 677,
+    "rect": [82, 0, 31, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/702-special_portal_2.png": {
+    "pathId": 702,
+    "rect": [143, 0, 35, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/958-heronecromancer_4.png": {
+    "pathId": 958,
+    "rect": [128, 0, 32, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [2.0541229248046875, 4.04290771484375],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/1080-hero_monk_0.png": {
+    "pathId": 1080,
+    "rect": [16, 0, 31, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/676-hero_monk_1.png": {
+    "pathId": 676,
+    "rect": [68, 0, 42, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/785-hero_monk_2.png": {
+    "pathId": 785,
+    "rect": [128, 0, 64, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [24.076126098632812, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/661-hero_monk_3.png": {
+    "pathId": 661,
+    "rect": [192, 0, 64, 32],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [20.04290771484375, 0],
+    "pixelsPerUnit": 100
+  },
+  "apogre-0.png": {
+    "pathId": 646,
+    "rect": [
+      35.0,
+      1.0,
+      59.0,
+      59.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "apogre-1.png": {
+    "pathId": 1032,
+    "rect": [
+      128.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      10.026748657226562,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "apogre-2.png": {
+    "pathId": 1137,
+    "rect": [
+      256.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      33.026763916015625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "apogre-3.png": {
+    "pathId": 781,
+    "rect": [
+      384.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      19.07611083984375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "barbarian-0.png": {
+    "pathId": 1122,
+    "rect": [
+      16.0,
+      0.0,
+      32.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.04290771484375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "barbarian-1.png": {
+    "pathId": 801,
+    "rect": [
+      70.0,
+      0.0,
+      38.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "barbarian-2.png": {
+    "pathId": 709,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      10.051315307617188,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "barbarian-3.png": {
+    "pathId": 789,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      8.076126098632812,
+      1.0477044582366943
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-0.png": {
+    "pathId": 1044,
+    "rect": [
+      20.0,
+      0.0,
+      23.0,
+      22.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-1.png": {
+    "pathId": 1132,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      16.07611846923828,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-2.png": {
+    "pathId": 761,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      23.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-3.png": {
+    "pathId": 659,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      14.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1007-monster_raider_2.png": {
+    "pathId": 1007,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      13.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1009-monster_shadow_2.png": {
+    "pathId": 1009,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5032200813293457,
+      0.4388189911842346
+    ],
+    "textureRectOffset": [
+      18.051315307617188,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1010-hero_knight_0.png": {
+    "pathId": 1010,
+    "rect": [
+      15.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1016-boss_beast_3.png": {
+    "pathId": 1016,
+    "rect": [
+      384.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      32.026763916015625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1017-hero_squire3_2.png": {
+    "pathId": 1017,
+    "rect": [
+      144.0,
+      0.0,
+      42.0,
+      31.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1018-monster_pyramid_2.png": {
+    "pathId": 1018,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      24.076126098632812,
+      0.02675098180770874
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1021-hero_squire_1.png": {
+    "pathId": 1021,
+    "rect": [
+      70.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1023-hero_duelist_1.png": {
+    "pathId": 1023,
+    "rect": [
+      64.0,
+      0.0,
+      43.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.07612049579620361
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1024-hero_knight_2.png": {
+    "pathId": 1024,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      13.076126098632812,
+      0.02675098180770874
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1026-monster_pyramid_3.png": {
+    "pathId": 1026,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      17.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1034-monster_raider_3.png": {
+    "pathId": 1034,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.0334930419921875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1038-boss_witch2_1.png": {
+    "pathId": 1038,
+    "rect": [
+      128.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.036285400390625,
+      1.0129125118255615
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1040-boss_beast_1.png": {
+    "pathId": 1040,
+    "rect": [
+      128.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      17.004043579101562,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1043-boss_witch1_1.png": {
+    "pathId": 1043,
+    "rect": [
+      128.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      9.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1046-hero_bannerman_3.png": {
+    "pathId": 1046,
+    "rect": [
+      384.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      20.07611083984375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1048-boss_witch2_0.png": {
+    "pathId": 1048,
+    "rect": [
+      36.0,
+      1.0,
+      58.0,
+      63.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1051-hero_bannerman_1.png": {
+    "pathId": 1051,
+    "rect": [
+      168.0,
+      0.0,
+      61.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1052-monster_metamorph_4.png": {
+    "pathId": 1052,
+    "rect": [
+      256.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      8.07611083984375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1054-hero_demonhunter_3.png": {
+    "pathId": 1054,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      23.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1059-hero_squire3_4.png": {
+    "pathId": 1059,
+    "rect": [
+      201.0,
+      3.0,
+      45.0,
+      19.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1062-monster_worm_0.png": {
+    "pathId": 1062,
+    "rect": [
+      22.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.0129127502441406,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1072-hero_bannerman_2.png": {
+    "pathId": 1072,
+    "rect": [
+      256.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      54.07611083984375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1076-monster_bandit_1.png": {
+    "pathId": 1076,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1079-monster_bandit_3.png": {
+    "pathId": 1079,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      24.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1080-hero_monk_0.png": {
+    "pathId": 1080,
+    "rect": [
+      16.0,
+      0.0,
+      31.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1081-monster_raider_0.png": {
+    "pathId": 1081,
+    "rect": [
+      16.0,
+      0.0,
+      29.0,
+      28.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1094-hero_stormcaller_2.png": {
+    "pathId": 1094,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      23.051315307617188,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1102-monster_bandit_0.png": {
+    "pathId": 1102,
+    "rect": [
+      14.0,
+      0.0,
+      37.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.0003852844238281,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1103-boss_witch1_4.png": {
+    "pathId": 1103,
+    "rect": [
+      512.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      22.07611083984375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1105-boss_witch2_4.png": {
+    "pathId": 1105,
+    "rect": [
+      512.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      51.012939453125,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1107-monster_zombieregular_0.png": {
+    "pathId": 1107,
+    "rect": [
+      19.0,
+      0.0,
+      32.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      6.05131721496582,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1111-hero_stormcaller_3.png": {
+    "pathId": 1111,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      13.026748657226562,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1114-hero_duelist_2.png": {
+    "pathId": 1114,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      22.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1115-monster_sentinel_0.png": {
+    "pathId": 1115,
+    "rect": [
+      17.0,
+      0.0,
+      33.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.07612037658691406,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1116-hero_bannerman_0.png": {
+    "pathId": 1116,
+    "rect": [
+      41.0,
+      1.0,
+      52.0,
+      62.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1118-monster_worm_3.png": {
+    "pathId": 1118,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.0761260986328125,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1120-monster_sentinel_3.png": {
+    "pathId": 1120,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      20.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1127-boss_beast_2.png": {
+    "pathId": 1127,
+    "rect": [
+      256.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      35.03350830078125,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1128-monster_sentinel_2.png": {
+    "pathId": 1128,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      12.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1131-hero_squire2_4.png": {
+    "pathId": 1131,
+    "rect": [
+      200.0,
+      0.0,
+      45.0,
+      19.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1133-monster_mammoth_0.png": {
+    "pathId": 1133,
+    "rect": [
+      35.0,
+      0.0,
+      74.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.04290771484375,
+      0.051316678524017334
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1135-hero_skeleton_1.png": {
+    "pathId": 1135,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      9.076118469238281,
+      0.07612049579620361
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1139-hero_skeleton_3.png": {
+    "pathId": 1139,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      3.0267486572265625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1144-monster_metamorph_2.png": {
+    "pathId": 1144,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      18.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1145-hero_illusionist_1.png": {
+    "pathId": 1145,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      20.07611846923828,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/1148-monster_worm_2.png": {
+    "pathId": 1148,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      23.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/632-monster_metamorph_1.png": {
+    "pathId": 632,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/637-hero_stormcaller_0.png": {
+    "pathId": 637,
+    "rect": [
+      16.0,
+      0.0,
+      34.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.036285400390625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/640-monster_zombieregular_2.png": {
+    "pathId": 640,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      30.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/641-monster_overseer_3.png": {
+    "pathId": 641,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      23.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/650-monster_pyramid_0.png": {
+    "pathId": 650,
+    "rect": [
+      16.0,
+      1.0,
+      28.0,
+      28.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/653-hero_squire3_0.png": {
+    "pathId": 653,
+    "rect": [
+      18.0,
+      0.0,
+      25.0,
+      31.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/658-monster_pyramid_1.png": {
+    "pathId": 658,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      15.076118469238281,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/661-hero_monk_3.png": {
+    "pathId": 661,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      20.04290771484375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/662-hero_witchdoctor_0.png": {
+    "pathId": 662,
+    "rect": [
+      15.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.07612037658691406,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/665-hero_squire_3.png": {
+    "pathId": 665,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.1055755615234375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/666-monster_zombieregular_1.png": {
+    "pathId": 666,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      8.076118469238281,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/668-hero_witchdoctor_3.png": {
+    "pathId": 668,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      11.051315307617188,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/674-monster_mammoth_1.png": {
+    "pathId": 674,
+    "rect": [
+      128.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.0267486572265625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/692-monster_overseer_2.png": {
+    "pathId": 692,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5040252208709717,
+      0.3985683023929596
+    ],
+    "textureRectOffset": [
+      25.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/693-hero_duelist_3.png": {
+    "pathId": 693,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      18.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/695-hero_squire_0.png": {
+    "pathId": 695,
+    "rect": [
+      15.0,
+      0.0,
+      31.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/699-monster_raider_1.png": {
+    "pathId": 699,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      3.0846481323242188,
+      0.07612049579620361
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/700-monster_bandit_2.png": {
+    "pathId": 700,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      14.02117919921875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/702-special_portal_2.png": {
+    "pathId": 702,
+    "rect": [
+      143.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/703-monster_mammoth_3.png": {
+    "pathId": 703,
+    "rect": [
+      384.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      15.067291259765625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/707-boss_witch1_2.png": {
+    "pathId": 707,
+    "rect": [
+      256.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      32.05133056640625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/712-hero_demonhunter_2.png": {
+    "pathId": 712,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      10.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/721-boss_witch1_0.png": {
+    "pathId": 721,
+    "rect": [
+      37.0,
+      1.0,
+      58.0,
+      57.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/724-hero_witchdoctor_1.png": {
+    "pathId": 724,
+    "rect": [
+      72.0,
+      0.0,
+      36.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/726-monster_worm_1.png": {
+    "pathId": 726,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/729-hero_skeleton_2.png": {
+    "pathId": 729,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      23.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/740-monster_metamorph_0.png": {
+    "pathId": 740,
+    "rect": [
+      15.0,
+      0.0,
+      33.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/742-monster_sentinel_1.png": {
+    "pathId": 742,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      4.04290771484375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/745-hero_stormcaller_1.png": {
+    "pathId": 745,
+    "rect": [
+      72.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/746-hero_squire3_1.png": {
+    "pathId": 746,
+    "rect": [
+      69.0,
+      0.0,
+      36.0,
+      31.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/748-boss_witch1_3.png": {
+    "pathId": 748,
+    "rect": [
+      384.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      33.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/752-hero_pyromancer_2.png": {
+    "pathId": 752,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      19.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/753-monster_overseer_0.png": {
+    "pathId": 753,
+    "rect": [
+      16.0,
+      0.0,
+      40.0,
+      32.0
+    ],
+    "pivot": [
+      0.4948478639125824,
+      0.38246801495552063
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/757-hero_knight_3.png": {
+    "pathId": 757,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.0267486572265625,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/758-hero_pyromancer_0.png": {
+    "pathId": 758,
+    "rect": [
+      17.0,
+      0.0,
+      33.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.05131721496582031,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/760-monster_tank_2.png": {
+    "pathId": 760,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      20.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/763-hero_demonhunter_0.png": {
+    "pathId": 763,
+    "rect": [
+      15.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      3.076120376586914,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/764-monster_shadow_1.png": {
+    "pathId": 764,
+    "rect": [
+      65.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5016100406646729,
+      0.44203904271125793
+    ],
+    "textureRectOffset": [
+      1.0146713256835938,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/772-monster_overseer_1.png": {
+    "pathId": 772,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.7705878019332886,
+      0.36571329832077026
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/773-hero_witchdoctor_2.png": {
+    "pathId": 773,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      11.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/776-monster_shadow_0.png": {
+    "pathId": 776,
+    "rect": [
+      15.0,
+      0.0,
+      34.0,
+      32.0
+    ],
+    "pivot": [
+      0.49848467111587524,
+      0.44042903184890747
+    ],
+    "textureRectOffset": [
+      1.0129127502441406,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/780-monster_tank_0.png": {
+    "pathId": 780,
+    "rect": [
+      15.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.05637168884277344,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/782-boss_beast_0.png": {
+    "pathId": 782,
+    "rect": [
+      37.0,
+      1.0,
+      56.0,
+      61.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/785-hero_monk_2.png": {
+    "pathId": 785,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      24.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/787-hero_demonhunter_1.png": {
+    "pathId": 787,
+    "rect": [
+      64.0,
+      0.0,
+      49.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/792-monster_shadow_3.png": {
+    "pathId": 792,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      20.03350830078125,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/793-hero_illusionist_0.png": {
+    "pathId": 793,
+    "rect": [
+      16.0,
+      0.0,
+      30.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/795-monster_tank_3.png": {
+    "pathId": 795,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      17.051315307617188,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/798-hero_duelist_0.png": {
+    "pathId": 798,
+    "rect": [
+      18.0,
+      0.0,
+      30.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/800-hero_squire2_1.png": {
+    "pathId": 800,
+    "rect": [
+      69.0,
+      0.0,
+      36.0,
+      31.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/803-hero_squire2_2.png": {
+    "pathId": 803,
+    "rect": [
+      144.0,
+      0.0,
+      42.0,
+      31.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/804-boss_witch2_3.png": {
+    "pathId": 804,
+    "rect": [
+      384.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      45.07611083984375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/821-heroelf_1.png": {
+    "pathId": 821,
+    "rect": [
+      32.0,
+      0.0,
+      32.0,
+      32.0
+    ],
+    "pivot": [
+      0.5788602828979492,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/833-hero_illusionist_4.png": {
+    "pathId": 833,
+    "rect": [
+      256.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/851-enemynaga_1.png": {
+    "pathId": 851,
+    "rect": [
+      45.0,
+      0.0,
+      45.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.03350067138671875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/958-heronecromancer_4.png": {
+    "pathId": 958,
+    "rect": [
+      128.0,
+      0.0,
+      32.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.0541229248046875,
+      4.04290771484375
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/979-hero_squire_2.png": {
+    "pathId": 979,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      15.02117919921875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/985-hero_pyromancer_1.png": {
+    "pathId": 985,
+    "rect": [
+      69.0,
+      0.0,
+      36.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/986-monster_mammoth_2.png": {
+    "pathId": 986,
+    "rect": [
+      256.0,
+      0.0,
+      128.0,
+      64.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      23.14935302734375,
+      0.051316678524017334
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/987-hero_skeleton_0.png": {
+    "pathId": 987,
+    "rect": [
+      16.0,
+      0.0,
+      31.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/990-hero_pyromancer_3.png": {
+    "pathId": 990,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      9.051315307617188,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/995-hero_squire2_0.png": {
+    "pathId": 995,
+    "rect": [
+      18.0,
+      0.0,
+      25.0,
+      31.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/998-monster_tank_1.png": {
+    "pathId": 998,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/999-hero_knight_1.png": {
+    "pathId": 999,
+    "rect": [
+      64.0,
+      0.0,
+      51.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "raider-0.png": {
+    "pathId": 1081,
+    "rect": [
+      16.0,
+      0.0,
+      29.0,
+      28.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "raider-1.png": {
+    "pathId": 699,
+    "rect": [
+      64.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      3.0846481323242188,
+      0.07612049579620361
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "raider-2.png": {
+    "pathId": 1007,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      13.012908935546875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "raider-3.png": {
+    "pathId": 1034,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.0334930419921875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "ranger-0.png": {
+    "pathId": 1097,
+    "rect": [
+      17.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      1.076120376586914,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "ranger-1.png": {
+    "pathId": 743,
+    "rect": [
+      78.0,
+      0.0,
+      30.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "ranger-2.png": {
+    "pathId": 980,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      20.026748657226562,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "ranger-3.png": {
+    "pathId": 799,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      15.076126098632812,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "squire-0.png": {
+    "pathId": 695,
+    "rect": [
+      15.0,
+      0.0,
+      31.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "squire-1.png": {
+    "pathId": 1021,
+    "rect": [
+      70.0,
+      0.0,
+      35.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "squire-2.png": {
+    "pathId": 979,
+    "rect": [
+      128.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      15.02117919921875,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "squire-3.png": {
+    "pathId": 665,
+    "rect": [
+      192.0,
+      0.0,
+      64.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.1055755615234375,
+      0.0
+    ],
+    "pixelsPerUnit": 100.0
+  }
+}

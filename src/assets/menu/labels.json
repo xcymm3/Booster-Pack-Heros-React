@@ -1,0 +1,374 @@
+{
+  "ui.button.continue": {
+    "en": "CONTINUE",
+    "zh-CN": "继续"
+  },
+  "ui.button.feedback": {
+    "en": "FEEDBACK",
+    "zh-CN": "提交反馈"
+  },
+  "ui.button.quit": {
+    "en": "QUIT",
+    "zh-CN": "退出"
+  },
+  "ui.button.reportbug": {
+    "en": "REPORT BUG",
+    "zh-CN": "报告 BUG"
+  },
+  "ui.button.resetprogress": {
+    "en": "RESET PROGRESS",
+    "zh-CN": "重置进度"
+  },
+  "ui.button.tobattle": {
+    "en": "BATTLE",
+    "zh-CN": "战斗"
+  },
+  "ui.button.wishlist": {
+    "en": "WISHLIST ON STEAM",
+    "zh-CN": "在 STEAM 上加入愿望单"
+  },
+  "ui.button.buy_steam": {
+    "en": "BUY FULL VERSION ON STEAM",
+    "zh-CN": "在Steam上购买完整版"
+  },
+  "ui.button.buy_itch": {
+    "en": "BUY FULL VERSION ON ITCH",
+    "zh-CN": "在 ITCH 上购买完整版"
+  },
+  "ui.button.replay_demo": {
+    "en": "REPLAY DEMO",
+    "zh-CN": "重播演示"
+  },
+  "ui.button.rate": {
+    "en": "RATE",
+    "zh-CN": "打分"
+  },
+  "ui.button.nothanks": {
+    "en": "NO THANKS",
+    "zh-CN": "不了谢谢"
+  },
+  "ui.button.settings": {
+    "en": "SETTINGS",
+    "zh-CN": "设置"
+  },
+  "ui.button.back": {
+    "en": "BACK",
+    "zh-CN": "返回"
+  },
+  "ui.button.skip": {
+    "en": "SKIP",
+    "zh-CN": "跳过"
+  },
+  "ui.button.cancel": {
+    "en": "CANCEL",
+    "zh-CN": "取消"
+  },
+  "ui.button.delete_save": {
+    "en": "DELETE SAVE",
+    "zh-CN": "删除存档"
+  },
+  "ui.button.restore_purchases": {
+    "en": "RESTORE PURCHASES",
+    "zh-CN": "恢复购买"
+  },
+  "ui.button.supporterpack": {
+    "en": "SUPPORTER PACK",
+    "zh-CN": "支持者礼包"
+  },
+  "ui.menu.avgdmgavgdefense": {
+    "en": "Avg. damage - avg. defense",
+    "zh-CN": "平均伤害 - 平均防御"
+  },
+  "ui.menu.likingthegame": {
+    "en": "Liking the demo so far?",
+    "zh-CN": "喜欢试玩版吗？"
+  },
+  "ui.menu.brightness": {
+    "en": "BRIGHTNESS",
+    "zh-CN": "亮度"
+  },
+  "ui.menu.contrast": {
+    "en": "CONTRAST",
+    "zh-CN": "对比度"
+  },
+  "ui.menu.fullscreen": {
+    "en": "FULLSCREEN",
+    "zh-CN": "全屏"
+  },
+  "ui.menu.music": {
+    "en": "MUSIC",
+    "zh-CN": "音乐"
+  },
+  "ui.menu.screenshake": {
+    "en": "SCREEN SHAKE",
+    "zh-CN": "屏幕抖动"
+  },
+  "ui.menu.sfx": {
+    "en": "SFX",
+    "zh-CN": "音效"
+  },
+  "ui.menu.skilltreeanimations": {
+    "en": "SKILL TREE REVEAL ANIMATION",
+    "zh-CN": "技能树解锁动画"
+  },
+  "ui.menu.unlocked": {
+    "en": "UNLOCKED",
+    "zh-CN": "已解锁"
+  },
+  "ui.menu.vibration": {
+    "en": "VIBRATION",
+    "zh-CN": "震动"
+  },
+  "ui.menu.ratedesc": {
+    "en": "Enjoying Booster Pack Heroes?\r\nPlease rate us!",
+    "zh-CN": "喜欢《卡包英雄》这款游戏吗？\r\n欢迎给我们打分！"
+  },
+  "ui.menu.resetdesc": {
+    "en": "Are you sure you want to reset all your progress?",
+    "zh-CN": "确定要重置全部进度吗？"
+  },
+  "ui.settings.general": {
+    "en": "GENERAL",
+    "zh-CN": "综合"
+  },
+  "ui.settings.graphics": {
+    "en": "GRAPHICS",
+    "zh-CN": "图形"
+  },
+  "ui.settings.gameplay": {
+    "en": "GAMEPLAY",
+    "zh-CN": "游戏设置"
+  },
+  "ui.settings.audio": {
+    "en": "AUDIO",
+    "zh-CN": "声音"
+  },
+  "ui.settings.touch": {
+    "en": "TOUCH",
+    "zh-CN": "触屏"
+  },
+  "ui.settings.cursormode": {
+    "en": "CURSOR MODE",
+    "zh-CN": "光标模式"
+  },
+  "ui.settings.cursormode_normal": {
+    "en": "Normal",
+    "zh-CN": "普通"
+  },
+  "ui.settings.cursormode_offset": {
+    "en": "Offset",
+    "zh-CN": "偏移"
+  },
+  "ui.settings.exportsave": {
+    "en": "EXPORT SAVE",
+    "zh-CN": "导出存档"
+  },
+  "ui.settings.importsave": {
+    "en": "IMPORT SAVE",
+    "zh-CN": "导入存档"
+  },
+  "ui.settings.language": {
+    "en": "LANGUAGE",
+    "zh-CN": "语言"
+  },
+  "ui.settings.allowdatacollection": {
+    "en": "ALLOW DATA COLLECTION",
+    "zh-CN": "同意数据采集"
+  },
+  "ui.settings.datapopup": {
+    "en": "We're collecting anonymous gameplay data.\r\nYou can opt out here or from the settings menu at any time.",
+    "zh-CN": "我们会收集匿名的游戏行为数据。\r\n你随时可在此处或设置菜单中关闭该功能。"
+  },
+  "ui.settings.datacollectiondesc": {
+    "en": "Analytics is completely anonymous and helps us make the game better",
+    "zh-CN": "数据分析有助于我们不断完善游戏内容看，并且完全匿名"
+  },
+  "ui.settings.gamepadsensitivity": {
+    "en": "GAMEPAD SENSITIVITY",
+    "zh-CN": "手柄灵敏度"
+  },
+  "ui.settings.vsync": {
+    "en": "VSYNC",
+    "zh-CN": "垂直同步"
+  },
+  "ui.settings.fps_uncapped": {
+    "en": "UNCAPPED",
+    "zh-CN": "无上限"
+  },
+  "ui.settings.damage_numbers": {
+    "en": "DAMAGE NUMBERS",
+    "zh-CN": "伤害数字"
+  },
+  "ui.settings.damage_numbers_all": {
+    "en": "ALL",
+    "zh-CN": "全部"
+  },
+  "ui.settings.damage_numbers_big": {
+    "en": "BIG ONLY",
+    "zh-CN": "仅大额"
+  },
+  "ui.settings.damage_numbers_off": {
+    "en": "OFF",
+    "zh-CN": "关闭"
+  },
+  "ui.settings.fps": {
+    "en": "{x} FPS",
+    "zh-CN": "{x} FPS"
+  },
+  "ui.settings.toggle_crt": {
+    "en": "Enable CRT effect",
+    "zh-CN": "启用复古画面效果"
+  },
+  "ui.savetransfer.exportsave": {
+    "en": "EXPORT SAVE",
+    "zh-CN": "导出存档"
+  },
+  "ui.savetransfer.importsave": {
+    "en": "IMPORT SAVE",
+    "zh-CN": "导入存档"
+  },
+  "ui.savetransfer.importbutton": {
+    "en": "IMPORT",
+    "zh-CN": "导入"
+  },
+  "ui.savetransfer.uploading": {
+    "en": "Uploading",
+    "zh-CN": "正在上传"
+  },
+  "ui.savetransfer.uploadsuccess": {
+    "en": "Save Data uploaded!\\nEnter this code on your other device\\n",
+    "zh-CN": "存档数据上传完毕！\\n请在你的另一台设备上输入此存档码\\n"
+  },
+  "ui.savetransfer.uploadfailed": {
+    "en": "Failed to upload save",
+    "zh-CN": "上传存档失败"
+  },
+  "ui.savetransfer.downloading": {
+    "en": "Downloading save",
+    "zh-CN": "正在下载存档"
+  },
+  "ui.savetransfer.codeincorrect": {
+    "en": "Could not download save.\\nYour code may be incorrect or expired",
+    "zh-CN": "无法下载存档。\\n存档码可能不正确或已失效。"
+  },
+  "ui.savetransfer.downloadfailed": {
+    "en": "Failed to import save data",
+    "zh-CN": "导入存档数据失败"
+  },
+  "ui.savetransfer.downloadinfo": {
+    "en": "Enter your code below",
+    "zh-CN": "请在下方输入存档码"
+  },
+  "ui.savetransfer.codeexpires": {
+    "en": "This code expires in 30 minutes.",
+    "zh-CN": "此码将于 30 分钟后失效。"
+  },
+  "ui.menu.totaldmgtotaldefense": {
+    "en": "Total damage - total defense",
+    "zh-CN": "总伤害 - 总防御"
+  },
+  "ui.button.confirm": {
+    "en": "CONFIRM",
+    "zh-CN": "确认"
+  },
+  "ui.credits.button": {
+    "en": "CREDITS",
+    "zh-CN": "制作人员"
+  },
+  "ui.credits.back": {
+    "en": "Back",
+    "zh-CN": "返回"
+  },
+  "ui.credits.closing": {
+    "en": "Thank you for playing!",
+    "zh-CN": "感谢游玩！"
+  },
+  "ui.credits.gameBy": {
+    "en": "A game by",
+    "zh-CN": "游戏作者"
+  },
+  "ui.credits.publishedBy": {
+    "en": "Published by",
+    "zh-CN": "发行商"
+  },
+  "ui.credits.specialThanks": {
+    "en": "Special Thanks",
+    "zh-CN": "特别鸣谢"
+  },
+  "ui.credits.role.marketing": {
+    "en": "Marketing",
+    "zh-CN": "市场营销"
+  },
+  "ui.credits.role.product": {
+    "en": "Product",
+    "zh-CN": "产品"
+  },
+  "ui.credits.role.business": {
+    "en": "Business",
+    "zh-CN": "商务"
+  },
+  "ui.credits.role.playerInsights": {
+    "en": "Player Insights",
+    "zh-CN": "玩家洞察"
+  },
+  "ui.credits.role.art": {
+    "en": "Art",
+    "zh-CN": "美术"
+  },
+  "ui.credits.role.marketingArt": {
+    "en": "Marketing Art",
+    "zh-CN": "营销美术"
+  },
+  "ui.credits.role.videoTrailer": {
+    "en": "Video & Trailer",
+    "zh-CN": "视频与预告片"
+  },
+  "ui.credits.role.qa": {
+    "en": "QA",
+    "zh-CN": "质量保证"
+  },
+  "ui.credits.role.portingOptimizations": {
+    "en": "Porting & Optimizations",
+    "zh-CN": "移植与优化"
+  },
+  "ui.credits.localizationby": {
+    "en": "Localization by",
+    "zh-CN": "本地化"
+  },
+  "ui.credits.additionalPRandMarketing": {
+    "en": "Additional PR & Marketing",
+    "zh-CN": "额外公关与营销"
+  },
+  "ui.credits.role.createdBy": {
+    "en": "Created by",
+    "zh-CN": "创作者"
+  },
+  "ui.credits.role.collaboration": {
+    "en": "In collaboration with",
+    "zh-CN": "合作方"
+  },
+  "ui.credits.role.playtester": {
+    "en": "Playtesters",
+    "zh-CN": "试玩人员"
+  },
+  "ui.credits.thirdparty": {
+    "en": "Third-Party Assets",
+    "zh-CN": "第三方素材"
+  },
+  "ui.credits.role.music": {
+    "en": "Music",
+    "zh-CN": "音乐"
+  },
+  "ui.credits.role.sfx": {
+    "en": "SFX",
+    "zh-CN": "音效"
+  },
+  "ui.credits.role.vfx": {
+    "en": "VFX",
+    "zh-CN": "视觉特效"
+  },
+  "ui.settings.privacypolicy": {
+    "en": "Privacy Policy",
+    "zh-CN": "隐私政策"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "ui.door.prestige_confirm.p0": {
+    "en": "Begin Act 2. Your skill tree will be reset, but your Foilium upgrades, Foilium balance, and Collection will be preserved.",
+    "zh-CN": "开始第2幕。你的技能树将被重置，但Foilium升级、Foilium余额和收藏都会保留。"
+  },
+  "ui.tab.collection": {
+    "en": "COLLECTION",
+    "zh-CN": "收藏"
+  },
+  "term.resource.coins": {
+    "en": "Coins",
+    "zh-CN": "金币"
+  },
+  "term.resource.mastery": {
+    "en": "Mastery",
+    "zh-CN": "精通"
+  },
+  "term.cursor": {
+    "en": "Cursor",
+    "zh-CN": "光标"
+  },
+  "ui.daysummary.chapter_complete": {
+    "en": "{0} complete!",
+    "zh-CN": "{0}完成！"
+  },
+  "ui.daysummary.completed_in_tries": {
+    "en": "Completed in 1 try",
+    "zh-CN": "在 1 次尝试内完成"
+  },
+  "ui.daysummary.completed_in_tries.plural": {
+    "en": "Completed in {0} tries",
+    "zh-CN": "在 {0} 次尝试内完成"
+  },
+  "ui.daysummary.packs_opened": {
+    "en": "Packs Opened: {0}",
+    "zh-CN": "开启卡包：{0}"
+  },
+  "ui.daysummary.resources_earned": {
+    "en": "Resources Earned:",
+    "zh-CN": "获得资源："
+  },
+  "ui.daysummary.time_survived": {
+    "en": "Time Survived: {0}",
+    "zh-CN": "存活时间：{0}"
+  },
+  "ui.daysummary.defeat_phrase": {
+    "en": "Defeated...",
+    "zh-CN": "失败……"
+  },
+  "ui.daysummary.victory_phrase": {
+    "en": "Victory!",
+    "zh-CN": "胜利！"
+  },
+  "ui.daysummary.times_up": {
+    "en": "Time's Up!",
+    "zh-CN": "时间用尽！"
+  },
+  "ui.daysummary.bonfire_destroyed": {
+    "en": "Bonfire Destroyed!",
+    "zh-CN": "营火被摧毁！"
+  },
+  "ui.daysummary.day_complete": {
+    "en": "Day {0} Complete!",
+    "zh-CN": "第 {0} 日完成！"
+  },
+  "ui.button.continue": {
+    "en": "CONTINUE",
+    "zh-CN": "继续"
+  },
+  "ui.daysummary.col_def": {
+    "en": "Def",
+    "zh-CN": "防御"
+  },
+  "ui.daysummary.col_dmg": {
+    "en": "Damage",
+    "zh-CN": "伤害"
+  },
+  "ui.daysummary.col_unit": {
+    "en": "Unit",
+    "zh-CN": "单位"
+  },
+  "ui.daysummary.packs_opened_label": {
+    "en": "Packs opened",
+    "zh-CN": "开启卡包"
+  },
+  "ui.daysummary.resources_earned_label": {
+    "en": "Resources earned",
+    "zh-CN": "获得资源"
+  },
+  "ui.daysummary.rewards_label": {
+    "en": "Rewards",
+    "zh-CN": "奖励"
+  },
+  "ui.daysummary.time_survived_label": {
+    "en": "Time survived",
+    "zh-CN": "存活时间"
+  },
+  "ui.daysummary.stats_mode_avg": {
+    "en": "Average",
+    "zh-CN": "平均"
+  },
+  "ui.daysummary.stats_mode_total": {
+    "en": "Total",
+    "zh-CN": "总计"
+  },
+  "ui.prestigesummary.title": {
+    "en": "Act {0} complete!",
+    "zh-CN": "第 {0} 幕完成！"
+  },
+  "ui.prestigesummary.section_combat": {
+    "en": "Combat",
+    "zh-CN": "战斗"
+  },
+  "ui.prestigesummary.monsters": {
+    "en": "Monsters defeated",
+    "zh-CN": "消灭怪物"
+  },
+  "ui.prestigesummary.foil_monsters": {
+    "en": "Foil monsters defeated",
+    "zh-CN": "消灭闪光怪物"
+  },
+  "ui.prestigesummary.bosses": {
+    "en": "Bosses defeated",
+    "zh-CN": "消灭首领"
+  },
+  "ui.prestigesummary.section_economy": {
+    "en": "Economy",
+    "zh-CN": "经济"
+  },
+  "ui.prestigesummary.gold_spent": {
+    "en": "Gold spent",
+    "zh-CN": "花费金币"
+  },
+  "ui.prestigesummary.packs": {
+    "en": "Packs opened",
+    "zh-CN": "开启卡包"
+  },
+  "ui.prestigesummary.upgrades": {
+    "en": "Upgrades",
+    "zh-CN": "升级"
+  },
+  "ui.prestigesummary.quests": {
+    "en": "Quests",
+    "zh-CN": "任务"
+  },
+  "ui.prestigesummary.heroes": {
+    "en": "Heroes",
+    "zh-CN": "英雄"
+  },
+  "ui.prestigesummary.tomes": {
+    "en": "Tomes",
+    "zh-CN": "魔典"
+  },
+  "ui.prestigesummary.foils": {
+    "en": "Foils",
+    "zh-CN": "闪光"
+  },
+  "ui.prestigesummary.mvp_damage": {
+    "en": "Damage",
+    "zh-CN": "伤害"
+  },
+  "ui.prestigesummary.mvp_spawns": {
+    "en": "Spawns",
+    "zh-CN": "登场数量"
+  },
+  "ui.prestigesummary.mvp_share": {
+    "en": "Run damage",
+    "zh-CN": "伤害占比"
+  },
+  "ui.prestigesummary.medal_gold": {
+    "en": "Gold!",
+    "zh-CN": "金牌！"
+  },
+  "ui.prestigesummary.medal_silver": {
+    "en": "Silver!",
+    "zh-CN": "银牌！"
+  },
+  "ui.prestigesummary.medal_bronze": {
+    "en": "Bronze!",
+    "zh-CN": "铜牌！"
+  },
+  "ui.prestigesummary.tries_one": {
+    "en": "1 try",
+    "zh-CN": "1 次尝试"
+  },
+  "ui.prestigesummary.tries": {
+    "en": "{0} tries",
+    "zh-CN": "{0} 次尝试"
+  },
+  "ui.prestigesummary.mvp": {
+    "en": "MVP",
+    "zh-CN": "MVP"
+  }
+}

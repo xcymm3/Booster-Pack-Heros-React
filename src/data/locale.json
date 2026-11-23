@@ -1,0 +1,280 @@
+{
+  "Boss1_Apogre.unitName": {
+    "en": "Apogre",
+    "zh-CN": "巨型食人魔",
+    "sourceAsset": "BPH_Localization - Monsters",
+    "pathId": 325
+  },
+  "Monster1_Caveling.unitName": {
+    "en": "Caveling",
+    "zh-CN": "穴居怪",
+    "sourceAsset": "BPH_Localization - Monsters",
+    "pathId": 325
+  },
+  "Monster1_Raider.unitName": {
+    "en": "Raider",
+    "zh-CN": "劫掠者",
+    "sourceAsset": "BPH_Localization - Monsters",
+    "pathId": 325
+  },
+  "WaveChapter1.description": {
+    "en": "Drums in the Dark",
+    "zh-CN": "黑暗中的鼓声",
+    "sourceAsset": "BPH_Localization - Chapters",
+    "pathId": 334
+  },
+  "Pack1_Basic.packName": {
+    "en": "Basic Pack",
+    "zh-CN": "基础卡包",
+    "sourceAsset": "BPH_Localization - Packs",
+    "pathId": 335
+  },
+  "Pack1_Basic.packNamePlural": {
+    "en": "Basic Packs",
+    "zh-CN": "基础卡包",
+    "sourceAsset": "BPH_Localization - Packs",
+    "pathId": 335
+  },
+  "Tome_Thunderstorm.displayName": {
+    "en": "Thunderstorm",
+    "zh-CN": "雷暴",
+    "sourceAsset": "BPH_Localization - Tomes&Spells",
+    "pathId": 340
+  },
+  "Tome_Thunderstorm.revealDescription": {
+    "en": "Casts thunderbolts every few seconds",
+    "zh-CN": "每隔数秒便会施放落雷",
+    "sourceAsset": "BPH_Localization - Tomes&Spells",
+    "pathId": 340
+  },
+  "Tome_CursorDPS.revealDescription": {
+    "en": "Increases cursor power",
+    "zh-CN": "提升光标的威力"
+  },
+  "Hero1_Archer.unitName": {
+    "en": "Ranger",
+    "zh-CN": "游侠",
+    "sourceAsset": "BPH_Localization - Heroes",
+    "pathId": 341
+  },
+  "Hero1_Barbarian.unitName": {
+    "en": "Barbarian",
+    "zh-CN": "野蛮人",
+    "sourceAsset": "BPH_Localization - Heroes",
+    "pathId": 341
+  },
+  "Hero1_Squire.unitName": {
+    "en": "Squire",
+    "zh-CN": "侍从",
+    "sourceAsset": "BPH_Localization - Heroes",
+    "pathId": 341
+  },
+  "Q_DefeatOgre.description": {
+    "en": "Defeat the Apogre",
+    "zh-CN": "消灭巨型食人魔",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "term.resource.coins": {
+    "en": "Coins",
+    "zh-CN": "金币",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "term.resource.mastery": {
+    "en": "Mastery",
+    "zh-CN": "精通",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.continue": {
+    "en": "CONTINUE",
+    "zh-CN": "继续",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.feedback": {
+    "en": "FEEDBACK",
+    "zh-CN": "提交反馈",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.quit": {
+    "en": "QUIT",
+    "zh-CN": "退出",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.reportbug": {
+    "en": "REPORT BUG",
+    "zh-CN": "报告 BUG",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.resetprogress": {
+    "en": "RESET PROGRESS",
+    "zh-CN": "重置进度",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.tobattle": {
+    "en": "BATTLE",
+    "zh-CN": "战斗",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.wishlist": {
+    "en": "WISHLIST ON STEAM",
+    "zh-CN": "在 STEAM 上加入愿望单",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.buy_steam": {
+    "en": "BUY FULL VERSION ON STEAM",
+    "zh-CN": "在Steam上购买完整版",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.buy_itch": {
+    "en": "BUY FULL VERSION ON ITCH",
+    "zh-CN": "在 ITCH 上购买完整版",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.replay_demo": {
+    "en": "REPLAY DEMO",
+    "zh-CN": "重播演示",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.rate": {
+    "en": "RATE",
+    "zh-CN": "打分",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.nothanks": {
+    "en": "NO THANKS",
+    "zh-CN": "不了谢谢",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.settings": {
+    "en": "SETTINGS",
+    "zh-CN": "设置",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.back": {
+    "en": "BACK",
+    "zh-CN": "返回",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.skip": {
+    "en": "SKIP",
+    "zh-CN": "跳过",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.cancel": {
+    "en": "CANCEL",
+    "zh-CN": "取消",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.delete_save": {
+    "en": "DELETE SAVE",
+    "zh-CN": "删除存档",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.restore_purchases": {
+    "en": "RESTORE PURCHASES",
+    "zh-CN": "恢复购买",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.supporterpack": {
+    "en": "SUPPORTER PACK",
+    "zh-CN": "支持者礼包",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.shop.title": {
+    "en": "SHOP",
+    "zh-CN": "商店",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "ui.button.confirm": {
+    "en": "CONFIRM",
+    "zh-CN": "确认",
+    "sourceAsset": "BPH_Localization - UI",
+    "pathId": 342
+  },
+  "Tome_DragonsCall.revealDescription": {
+    "en": "A dragon flies across the field",
+    "zh-CN": "召唤一条巨龙飞过战场"
+  },
+  "Tome_RaiseDead.revealDescription": {
+    "en": "Summons skeletons every few seconds",
+    "zh-CN": "每个数秒便会召唤骷髅"
+  },
+  "Hero1_Archer.revealDescription": {
+    "en": "Ranged attacks",
+    "zh-CN": "远程攻击"
+  },
+  "Hero1_Barbarian.revealDescription": {
+    "en": "Attacks in a cone",
+    "zh-CN": "锥形范围攻击"
+  },
+  "Hero1_Squire.revealDescription": {
+    "en": "The basic unit",
+    "zh-CN": "基础作战单位"
+  },
+  "Hero2_Knight.revealDescription": {
+    "en": "Has a chance of blocking incoming attacks",
+    "zh-CN": "有几率格挡来袭攻击"
+  },
+  "Hero2_Monk.revealDescription": {
+    "en": "Dashes to multiple enemies on attack",
+    "zh-CN": "可以冲刺攻击多个敌人"
+  },
+  "Hero2_Pyromancer.revealDescription": {
+    "en": "Casts fireballs that deal area damage",
+    "zh-CN": "可以施放火球，造成范围伤害"
+  },
+  "Hero3_DemonSlayer.revealDescription": {
+    "en": "Attacks have a chance of dealing critical damage",
+    "zh-CN": "攻击有几率造成暴击伤害"
+  },
+  "Hero3_Illusionist.revealDescription": {
+    "en": "Spawns clones that multiply resources gained. Explodes on death.",
+    "zh-CN": "可以召唤镜像，提高资源的获取倍率。自身死亡时爆炸。"
+  },
+  "Hero3_Portal.revealDescription": {
+    "en": "Spawns allies from your collection",
+    "zh-CN": "可以召唤你已发现的友方单位"
+  },
+  "Hero3_WitchDoctor.revealDescription": {
+    "en": "Spreads infection with cursed bombs",
+    "zh-CN": "使用诅咒炸弹散播染疫效果"
+  },
+  "Hero4_Bannerman.revealDescription": {
+    "en": "Charges allies on attack",
+    "zh-CN": "攻击时强化队友"
+  },
+  "Hero4_Duelist.revealDescription": {
+    "en": "Leaps at enemies",
+    "zh-CN": "可以跳向敌人"
+  },
+  "Hero4_Stormcaller.revealDescription": {
+    "en": "Conjures wandering tornadoes",
+    "zh-CN": "可以召唤出四处游荡的龙卷风"
+  },
+  "Hero_Skeleton.revealDescription": {
+    "en": "Back from the dead",
+    "zh-CN": "死而复生"
+  }
+}

@@ -1,0 +1,339 @@
+/* Hallmark · macrostructure: Map / Diagram · pre-emit critique: P4 H5 E4 S5 R5 V4 */
+.game-page {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  min-height: 100vh;
+  min-height: 100dvh;
+  background: var(--black);
+}
+
+.scene {
+  container: battlefield / size;
+  position: relative;
+  isolation: isolate;
+  width: min(100%, calc(100vh * 16 / 9));
+  width: min(100%, calc(100dvh * 16 / 9));
+  aspect-ratio: 16 / 9;
+  background: var(--ground);
+  overflow: clip;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: none;
+}
+
+.scene:focus { outline: none; }
+.scene:focus-visible { outline: 1px solid var(--focus); outline-offset: -1px; }
+
+.arena-layer {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+  display: block;
+  pointer-events: none;
+}
+
+.arena-layer[hidden] { display: none; }
+
+.scene-hitbox {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background: transparent;
+  border: 0;
+  color: transparent;
+  padding: 0;
+  margin: 0;
+  min-width: 24px;
+  min-height: 24px;
+  z-index: 2;
+}
+
+.scene-hitbox:focus-visible, .gear:focus-visible, .card-next:focus-visible, .card-skip:focus-visible {
+  outline: 1px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.crate-hitbox { width: 12.3cqw; height: 20.4cqh; }
+.pack-hitbox { width: 4.5cqw; height: 7cqh; }
+.tome-hitbox { width: 3.375cqw; height: 6cqh; }
+
+.frenzy-spell-name {
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
+  translate: -50% calc(-50% - 3cqh);
+  color: #686f6f;
+  font: 500 6.2cqh / 1 'Jersey 10', 'BPH Summary Noto Sans SC', var(--font-ui);
+  paint-order: stroke fill;
+  -webkit-text-stroke: .55cqh #08080a;
+  white-space: nowrap;
+}
+
+.frenzy-spell-name:lang(zh-CN) { font-size: 7.56cqh; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .frenzy-spell-name {
+    translate: -50% calc(-50% - var(--spell-name-rise));
+    scale: var(--spell-name-scale);
+  }
+}
+
+.survive-hud { position: absolute; inset: 0; pointer-events: none; z-index: 12; }
+.tome-subscriptions {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+.tome-subscription { position: relative; }
+.tome-subscription-frame { position: absolute; inset: 0; width: 100%; height: 100%; image-rendering: pixelated; }
+.tome-subscription-cooldown, .tome-subscription-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  aspect-ratio: 1;
+  image-rendering: pixelated;
+}
+.survive-progress {
+  appearance: none;
+  position: absolute;
+  inset: 0 0 auto;
+  width: 100%;
+  border: 0 solid;
+  background: transparent;
+}
+.survive-progress::-webkit-progress-bar { background: transparent; }
+.survive-progress::-webkit-progress-value { background: currentColor; }
+.survive-progress::-moz-progress-bar { background: currentColor; }
+.survive-progress-tick { position: absolute; top: 0; translate: -50% 0; }
+.hud-currency {
+  position: absolute;
+  translate: -50% -50%;
+  display: flex;
+  align-items: center;
+  gap: .38cqw;
+  font-family: var(--font-numbers);
+  font-size: 3.46cqh;
+  line-height: 1;
+  color: var(--mastery);
+  text-shadow: 0 1px var(--black);
+}
+.hud-coins { color: var(--coin); }
+.hud-currency img { width: 2.12cqh; image-rendering: pixelated; }
+.hud-mastery-surge-backdrop, .hud-mastery-surge-label {
+  position: absolute;
+  translate: -50% -50%;
+}
+.hud-mastery-surge-backdrop { image-rendering: pixelated; }
+.hud-mastery-surge-label {
+  font-family: var(--font-numbers);
+  line-height: 1;
+}
+.hud-mastery span, .hud-mastery-surge-label {
+  text-box: trim-both cap alphabetic;
+  -webkit-text-stroke: .2cqh var(--black);
+  paint-order: stroke fill;
+}
+.corner-menu { position: absolute; top: 3.868cqh; right: 2.072cqw; }
+.arena-settings { z-index: 14; }
+@font-face {
+  font-family: 'BPH Chapter Noto Sans SC';
+  src: url('../../assets/menu/noto-sans-sc-menu.woff2') format('woff2');
+  font-display: swap;
+  font-weight: 100 900;
+  /* NotoSansSC SDF FaceInfo.m_Scale in resources.assets:1593. */
+  size-adjust: 82%;
+}
+.chapter-intro-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 13;
+  pointer-events: none;
+  text-align: center;
+}
+.chapter-intro-overlay > * {
+  display: block;
+  position: absolute;
+  translate: -50% -50%;
+  white-space: nowrap;
+  font: 300 1em / 1 'Jersey 10', 'BPH Chapter Noto Sans SC', var(--font-ui);
+  -webkit-text-stroke: .1em #000;
+  paint-order: stroke fill;
+}
+.corner-menu img { display: block; image-rendering: pixelated; }
+.controller-menu { position: absolute; right: 2.43cqw; top: 0; transform: translate(50%, -50%); }
+.controller-menu img { width: 1.18cqw; }
+.gear {
+  position: absolute;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  display: grid;
+  place-items: center;
+  width: 2.82cqw;
+  height: 5.01cqh;
+  min-width: 24px;
+  min-height: 24px;
+  top: 0;
+  right: 0;
+  transform: translate(50%, -50%);
+  cursor: pointer;
+  pointer-events: auto;
+}
+.gear img { width: 2.82cqw; opacity: .69; }
+.gear:hover img { opacity: 1; }
+@font-face {
+  font-family: 'BPH Quest Noto Sans SC';
+  src: url('../../assets/quest-hud-noto.woff2') format('woff2');
+  font-display: swap;
+  font-weight: 100 900;
+  size-adjust: 82%;
+}
+.quest-hud {
+  position: absolute;
+  display: grid;
+  margin: 0;
+  padding: 0;
+  max-block-size: 88cqh;
+  list-style: none;
+  pointer-events: auto;
+}
+.quest-hud-scroll { overflow-y: auto; scrollbar-width: thin; }
+.quest-hud-row {
+  position: relative;
+  scale: 1;
+  display: grid;
+  grid-template-columns: 3.48cqh minmax(0, 1fr) auto;
+  align-items: center;
+  gap: .13cqh;
+  padding-inline-end: .38cqh;
+  color: #949c9c;
+  font: 300 2.037cqh / 1 'Jersey 10', 'BPH Quest Noto Sans SC', var(--font-ui);
+  white-space: nowrap;
+}
+.quest-hud-row::before {
+  position: absolute;
+  inset: 0;
+  content: '';
+  image-rendering: pixelated;
+  border: 1.389cqh solid transparent;
+  border-image: url('../../assets/window-outline.png') 6 fill stretch;
+  filter: brightness(.4353);
+  pointer-events: none;
+}
+.quest-hud-row > .quest-hud-portrait {
+  position: relative;
+  inset: auto;
+  display: block;
+  width: 3.35cqh;
+  height: 100%;
+  margin-inline-start: .17cqh;
+  image-rendering: pixelated;
+  object-fit: contain;
+}
+.quest-hud-label { min-inline-size: 0; overflow: clip; }
+.quest-hud-count { font-size: 2.222cqh; }
+.quest-hud-flight {
+  position: absolute;
+  display: block;
+  aspect-ratio: 1;
+  translate: -50% -50%;
+  pointer-events: none;
+}
+.quest-hud-flight img { width: 100%; height: 100%; image-rendering: pixelated; }
+
+.first-card { position: absolute; inset: 0; z-index: 20; }
+.first-card-name {
+  position: absolute;
+  text-align: center;
+  display: grid;
+  white-space: nowrap;
+  text-shadow: 0 2px var(--black);
+}
+.first-card-name strong,
+.first-card-name span {
+  position: absolute;
+  left: 0;
+  translate: -50% -50%;
+}
+
+.first-card-name strong { top: -2.25cqh; font-size: 3.65cqh; font-weight: 400; }
+.first-card-name span { top: 3.337cqh; color: var(--text-subtle); font-size: 2.47cqh; }
+.first-card-foil span { top: 1.824cqh; }
+.card-next, .card-skip {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  color: var(--text-subtle);
+  background: transparent;
+  border: 0;
+  min-width: 24px;
+  min-height: 24px;
+  padding: 0;
+  cursor: pointer;
+}
+.card-next {
+  font-size: 5.2cqh;
+  top: 72%;
+  left: 50%;
+  translate: -50% 0;
+}
+.card-skip { font-size: 1.8cqh; bottom: 2%; right: 3%; }
+.first-card .card-next {
+  translate: -50% -50%;
+  width: 7.407cqh;
+  height: 7.407cqh;
+}
+
+.first-card .card-next img { width: 100%; height: 100%; object-fit: contain; image-rendering: pixelated; }
+
+.chapter-story { position: absolute; inset: 0; background: var(--black); z-index: 60; }
+.chapter-story img { position: absolute; image-rendering: pixelated; pointer-events: none; }
+.story-background { width: 100%; top: 50%; left: 0; translate: 0 -50%; }
+.story-foreground { width: 64.167cqw; left: 21.89cqw; top: 41.08cqh; }
+.chapter-story .card-next { top: 86%; }
+.pause-screen {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  z-index: 30;
+  background: var(--shade);
+}
+.pause-menu {
+  display: grid;
+  justify-items: center;
+  padding: 2cqh 3cqw;
+  background: var(--panel);
+  color: var(--text);
+  gap: 1.5cqh;
+  border: 1px solid var(--line);
+}
+.pause-menu h1 { margin: 0; font-weight: 400; font-size: 3.6cqh; }
+.menu-button {
+  border: 0;
+  background: var(--muted-gold);
+  color: var(--text);
+  padding: .7cqh 2.5cqw;
+  min-height: 24px;
+  font-size: max(12px, 2.75cqh);
+  cursor: pointer;
+}
+
+.save-warning {
+  position: absolute;
+  z-index: 100;
+  inset: auto 2cqw 1.8cqh;
+  font-size: max(12px, 1.8cqh);
+  text-align: center;
+  color: var(--focus);
+  text-shadow: 0 1px var(--black);
+  pointer-events: none;
+}
+
+@media (pointer: coarse) {
+  .scene-hitbox { min-width: 44px; min-height: 44px; }
+  .gear { min-width: 44px; min-height: 44px; transform: translate(18%, -31%); }
+  .card-next, .card-skip, .menu-button { min-height: 44px; min-width: 44px; }
+}

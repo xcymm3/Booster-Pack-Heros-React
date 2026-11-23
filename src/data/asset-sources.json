@@ -1,0 +1,1299 @@
+{
+  "apogre-attack.wav": {
+    "unityFile": "resources.assets",
+    "pathId": 398,
+    "unityName": "01_Minotaur_Attack",
+    "unityType": "AudioClip",
+    "durationSeconds": 1.5319048166275024
+  },
+  "apogre-0.png": {
+    "unityFile": "resources.assets",
+    "pathId": 646,
+    "unityName": "boss_apogre_0",
+    "unityType": "Sprite",
+    "width": 59,
+    "height": 59,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "apogre-1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1032,
+    "unityName": "boss_apogre_1",
+    "unityType": "Sprite",
+    "width": 98,
+    "height": 62,
+    "pixelsPerUnit": 100.0,
+    "rect": [128, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [10.026748657226562, 0],
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "apogre-2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1137,
+    "unityName": "boss_apogre_2",
+    "unityType": "Sprite",
+    "width": 93,
+    "height": 63,
+    "pixelsPerUnit": 100.0,
+    "rect": [256, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [33.026763916015625, 0],
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "apogre-3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 781,
+    "unityName": "boss_apogre_3",
+    "unityType": "Sprite",
+    "width": 93,
+    "height": 38,
+    "pixelsPerUnit": 100.0,
+    "rect": [384, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [19.07611083984375, 0],
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "chapter-2-3/1040-boss_beast_1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1040,
+    "pixelsPerUnit": 100,
+    "rect": [128, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [17.004043579101562, 0]
+  },
+  "chapter-2-3/1127-boss_beast_2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1127,
+    "pixelsPerUnit": 100,
+    "rect": [256, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [35.03350830078125, 0]
+  },
+  "chapter-2-3/1016-boss_beast_3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1016,
+    "pixelsPerUnit": 100,
+    "rect": [384, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [32.026763916015625, 0]
+  },
+  "chapter-2-3/1043-boss_witch1_1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1043,
+    "pixelsPerUnit": 100,
+    "rect": [128, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [9.076126098632812, 0]
+  },
+  "chapter-2-3/707-boss_witch1_2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 707,
+    "pixelsPerUnit": 100,
+    "rect": [256, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [32.05133056640625, 0]
+  },
+  "chapter-2-3/748-boss_witch1_3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 748,
+    "pixelsPerUnit": 100,
+    "rect": [384, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [33.012908935546875, 0]
+  },
+  "chapter-2-3/1103-boss_witch1_4.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1103,
+    "pixelsPerUnit": 100,
+    "rect": [512, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [22.07611083984375, 0]
+  },
+  "chapter-2-3/1038-boss_witch2_1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1038,
+    "pixelsPerUnit": 100,
+    "rect": [128, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [2.036285400390625, 1.0129125118255615]
+  },
+  "chapter-2-3/804-boss_witch2_3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 804,
+    "pixelsPerUnit": 100,
+    "rect": [384, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [45.07611083984375, 0]
+  },
+  "chapter-2-3/1105-boss_witch2_4.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1105,
+    "pixelsPerUnit": 100,
+    "rect": [512, 0, 128, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [51.012939453125, 0]
+  },
+  "back.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 581,
+    "unityName": "Icons_Arrows_31",
+    "unityType": "Sprite",
+    "width": 16,
+    "height": 16,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "SurviveHUD MainMenuButton image"
+  },
+  "barbarian-0.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1122,
+    "unityName": "hero_barbarian_0",
+    "unityType": "Sprite",
+    "width": 28,
+    "height": 32,
+    "pixelsPerUnit": 100.0
+  },
+  "barbarian-1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 801,
+    "unityName": "hero_barbarian_1",
+    "unityType": "Sprite",
+    "width": 38,
+    "height": 31,
+    "pixelsPerUnit": 100.0
+  },
+  "barbarian-2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 709,
+    "unityName": "hero_barbarian_2",
+    "unityType": "Sprite",
+    "width": 49,
+    "height": 31,
+    "pixelsPerUnit": 100.0
+  },
+  "barbarian-3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 789,
+    "unityName": "hero_barbarian_3",
+    "unityType": "Sprite",
+    "width": 50,
+    "height": 22,
+    "pixelsPerUnit": 100.0
+  },
+  "bonfire-destroyed.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 590,
+    "unityName": "Tower_Upgradable_29",
+    "unityType": "Sprite",
+    "width": 48,
+    "height": 76,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "level1 Bonfire serialized towerDestroyedSprite candidate corroborated by sprite and field sequence"
+  },
+  "bonfire-light.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 571,
+    "unityName": "Tower Shadow_0",
+    "unityType": "Sprite",
+    "width": 103,
+    "height": 55,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "level1 Bonfire light1 sprite"
+  },
+  "bonfire.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1146,
+    "unityName": "Tower_Upgradable_15",
+    "unityType": "Sprite",
+    "width": 50,
+    "height": 96,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "level1 Bonfire SpriteRenderer 11695; static source for Chapter 1"
+  },
+  "button-gold.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 441,
+    "unityName": "UI_Elements_0",
+    "unityType": "Sprite",
+    "width": 26,
+    "height": 23,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      11.0,
+      10.0,
+      10.0,
+      9.0
+    ],
+    "sceneUsage": "MainMenu Play image with 9-slice source"
+  },
+  "button-gray.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 626,
+    "unityName": "UI_Elements_7",
+    "unityType": "Sprite",
+    "width": 26,
+    "height": 23,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      11.0,
+      9.0,
+      12.0,
+      10.0
+    ]
+  },
+  "button-green.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 904,
+    "unityName": "Button_Green",
+    "unityType": "Sprite",
+    "width": 15,
+    "height": 15,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      7.0,
+      6.0,
+      6.0,
+      7.0
+    ]
+  },
+  "caveling-0.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1044,
+    "unityName": "monster_caveling_0",
+    "unityType": "Sprite",
+    "width": 23,
+    "height": 22,
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1132,
+    "unityName": "monster_caveling_1",
+    "unityType": "Sprite",
+    "width": 24,
+    "height": 20,
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 761,
+    "unityName": "monster_caveling_2",
+    "unityType": "Sprite",
+    "width": 27,
+    "height": 25,
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 659,
+    "unityName": "monster_caveling_3",
+    "unityType": "Sprite",
+    "width": 30,
+    "height": 11,
+    "pixelsPerUnit": 100.0
+  },
+  "caveling-hit.wav": {
+    "unityFile": "resources.assets",
+    "pathId": 394,
+    "unityName": "cavelinghit",
+    "unityType": "AudioClip",
+    "durationSeconds": 0.201
+  },
+  "coin.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1182,
+    "unityName": "gold_spin_0",
+    "unityType": "Sprite",
+    "width": 20,
+    "height": 18,
+    "pixelsPerUnit": 100.0
+  },
+  "ground.png": {
+    "unityFile": "resources.assets",
+    "pathId": 902,
+    "unityName": "Chapter1_Ground",
+    "unityType": "Sprite",
+    "width": 58,
+    "height": 56,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "level1 Ground SpriteRenderer 11724. Tiled draw mode 2, opacity 0.53333."
+  },
+  "jersey10.ttf": {
+    "unityFile": "resources.assets",
+    "pathId": 625,
+    "unityName": "Jersey10-Regular",
+    "unityType": "Font"
+  },
+  "logo-zh.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 870,
+    "unityName": "BPH_LOGO_SCH",
+    "unityType": "Sprite",
+    "width": 2033,
+    "height": 562,
+    "pixelsPerUnit": 82.847900390625
+  },
+  "mastery.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 991,
+    "unityName": "animated-tiles_28",
+    "unityType": "Sprite",
+    "width": 21,
+    "height": 25,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "Referenced by BankedMastery images in level1"
+  },
+  "pack-closed.png": {
+    "unityFile": "resources.assets",
+    "pathId": 976,
+    "unityName": "booster1_v2_0",
+    "unityType": "Sprite",
+    "width": 26,
+    "height": 39,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "Pack1_Basic.packSprite"
+  },
+  "pack-hit.wav": {
+    "unityFile": "resources.assets",
+    "pathId": 470,
+    "unityName": "SlashS_Nature",
+    "unityType": "AudioClip",
+    "durationSeconds": 1.021,
+    "sceneUsage": "Pack1_Basic.hitSFX"
+  },
+  "pack-open.png": {
+    "unityFile": "resources.assets",
+    "pathId": 913,
+    "unityName": "booster1_v2_1",
+    "unityType": "Sprite",
+    "width": 26,
+    "height": 37,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "Pack1_Basic.packOpenSprite"
+  },
+  "pack-open.wav": {
+    "unityFile": "resources.assets",
+    "pathId": 623,
+    "unityName": "Nature_Enchant_On",
+    "unityType": "AudioClip",
+    "durationSeconds": 1.532,
+    "sceneUsage": "Pack1_Basic.openSFX"
+  },
+  "pack-spawn.wav": {
+    "unityFile": "resources.assets",
+    "pathId": 523,
+    "unityName": "Whip_Nature",
+    "unityType": "AudioClip",
+    "durationSeconds": 1.021,
+    "sceneUsage": "Pack1_Basic.spawnSFX"
+  },
+  "pack-tear.png": {
+    "unityFile": "resources.assets",
+    "pathId": 972,
+    "unityName": "booster1_v2_3",
+    "unityType": "Sprite",
+    "width": 26,
+    "height": 7,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "Pack1_Basic.packTearSprite"
+  },
+  "panel-dark.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1165,
+    "unityName": "UI_Elements_13",
+    "unityType": "Sprite",
+    "width": 48,
+    "height": 48,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      21.0,
+      21.0,
+      19.0,
+      19.0
+    ]
+  },
+  "raider-0.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1081,
+    "unityName": "monster_raider_0",
+    "unityType": "Sprite",
+    "width": 29,
+    "height": 28,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "raider-1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 699,
+    "unityName": "monster_raider_1",
+    "unityType": "Sprite",
+    "width": 40,
+    "height": 30,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "raider-2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1007,
+    "unityName": "monster_raider_2",
+    "unityType": "Sprite",
+    "width": 40,
+    "height": 32,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "raider-3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1034,
+    "unityName": "monster_raider_3",
+    "unityType": "Sprite",
+    "width": 54,
+    "height": 20,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "ranger-0.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1097,
+    "unityName": "hero_ranger_0",
+    "unityType": "Sprite",
+    "width": 31,
+    "height": 32,
+    "pixelsPerUnit": 100.0
+  },
+  "ranger-1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 743,
+    "unityName": "hero_ranger_1",
+    "unityType": "Sprite",
+    "width": 30,
+    "height": 32,
+    "pixelsPerUnit": 100.0
+  },
+  "ranger-2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 980,
+    "unityName": "hero_ranger_2",
+    "unityType": "Sprite",
+    "width": 39,
+    "height": 32,
+    "pixelsPerUnit": 100.0
+  },
+  "ranger-3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 799,
+    "unityName": "hero_ranger_3",
+    "unityType": "Sprite",
+    "width": 49,
+    "height": 21,
+    "pixelsPerUnit": 100.0
+  },
+  "squire-0.png": {
+    "unityFile": "resources.assets",
+    "pathId": 695,
+    "unityName": "hero_squire_0",
+    "unityType": "Sprite",
+    "width": 31,
+    "height": 32,
+    "pixelsPerUnit": 100.0
+  },
+  "squire-1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1021,
+    "unityName": "hero_squire_1",
+    "unityType": "Sprite",
+    "width": 35,
+    "height": 32,
+    "pixelsPerUnit": 100.0
+  },
+  "squire-2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 979,
+    "unityName": "hero_squire_2",
+    "unityType": "Sprite",
+    "width": 44,
+    "height": 32,
+    "pixelsPerUnit": 100.0
+  },
+  "squire-3.png": {
+    "unityFile": "resources.assets",
+    "pathId": 665,
+    "unityName": "hero_squire_3",
+    "unityType": "Sprite",
+    "width": 47,
+    "height": 20,
+    "pixelsPerUnit": 100.0
+  },
+  "terrain-debris-13.png": {
+    "unityFile": "resources.assets",
+    "pathId": 719,
+    "unityName": "Environment Sheet_13",
+    "unityType": "Sprite",
+    "width": 22,
+    "height": 27,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "Chapter 1 scenery"
+  },
+  "terrain-debris-14.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1011,
+    "unityName": "Environment Sheet_14",
+    "unityType": "Sprite",
+    "width": 19,
+    "height": 23,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "Chapter 1 scenery"
+  },
+  "terrain-debris-18.png": {
+    "unityFile": "resources.assets",
+    "pathId": 728,
+    "unityName": "Environment Sheet_18",
+    "unityType": "Sprite",
+    "width": 15,
+    "height": 13,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "Chapter 1 scenery"
+  },
+  "terrain-inner.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1003,
+    "unityName": "tiles_21",
+    "unityType": "Sprite",
+    "width": 14,
+    "height": 12,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "Serialized static inner scenery in level1"
+  },
+  "terrain-outer.png": {
+    "unityFile": "resources.assets",
+    "pathId": 887,
+    "unityName": "tiles_129",
+    "unityType": "Sprite",
+    "width": 27,
+    "height": 20,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "Serialized static outer scenery in level1"
+  },
+  "thunderstorm.png": {
+    "unityFile": "resources.assets",
+    "pathId": 836,
+    "unityName": "new sprites test_24",
+    "unityType": "Sprite",
+    "width": 30,
+    "height": 36,
+    "pixelsPerUnit": 100.0,
+    "nineSliceBorderLeftBottomRightTop": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sceneUsage": "Tome_Thunderstorm worldSprite and hudSprite"
+  },
+  "tower-destroyed.wav": {
+    "unityFile": "resources.assets",
+    "pathId": 464,
+    "unityName": "05_Earth_Explosion",
+    "unityType": "AudioClip",
+    "durationSeconds": 2.043,
+    "sceneUsage": "level1 Bonfire towerDestroyedSFX"
+  },
+  "tower-hit.wav": {
+    "unityFile": "resources.assets",
+    "pathId": 407,
+    "unityName": "03_Earth_Throw",
+    "unityType": "AudioClip",
+    "durationSeconds": 2.043,
+    "sceneUsage": "level1 Bonfire towerHitSFX"
+  },
+  "boss-final-blow.wav": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 270,
+    "unityName": "Boss_Final_Blow",
+    "unityType": "AudioClip",
+    "durationSeconds": 5.142857
+  },
+  "wave-victory.wav": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 278,
+    "unityName": "Battle_Victory_Fanfare",
+    "unityType": "AudioClip",
+    "durationSeconds": 6.647
+  },
+  "reward-advanced.png": {
+    "unityFile": "resources.assets",
+    "pathId": 850,
+    "unityName": "booster2_v2_0",
+    "unityType": "Sprite",
+    "width": 26,
+    "height": 39,
+    "pixelsPerUnit": 100.0,
+    "sceneUsage": "Pack2_Advanced.packSprite, WaveChapter1.dayRewardPack"
+  },
+  "intro-box-0.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1178,
+    "unityName": "Intro_Boxes_0",
+    "type": "Sprite",
+    "width": 94,
+    "height": 87,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      192.0,
+      96.0,
+      96.0
+    ],
+    "worldBounds": [
+      0.94,
+      0.87
+    ],
+    "textureRectOffset": [
+      2.076120376586914,
+      4.0761260986328125
+    ]
+  },
+  "intro-box-1.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 465,
+    "unityName": "Intro_Boxes_1",
+    "type": "Sprite",
+    "width": 96,
+    "height": 96,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      96.0,
+      192.0,
+      96.0,
+      96.0
+    ],
+    "worldBounds": [
+      0.96,
+      0.96
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ]
+  },
+  "intro-special-item.wav": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 293,
+    "unityName": "Special_Item_Found",
+    "type": "AudioClip"
+  },
+  "chapter-2-3/1181-special-dragon.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1181,
+    "unityName": "special_dragon_0",
+    "type": "Sprite",
+    "width": 67,
+    "height": 64,
+    "pixelsPerUnit": 100,
+    "rect": [28, 0, 71, 64],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [2.0129127502441406, 0]
+  },
+  "ground-chapter1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 902,
+    "texturePathId": 111,
+    "unityName": "Chapter1_Ground",
+    "type": "Sprite",
+    "width": 64,
+    "height": 64,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      64.0,
+      64.0
+    ],
+    "worldBounds": [
+      0.64,
+      0.64
+    ],
+    "textureRectOffset": [
+      0,
+      0
+    ]
+  },
+  "logo-rays.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 883,
+    "unityName": "Rays",
+    "type": "Sprite",
+    "width": 145,
+    "height": 135,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      150.0,
+      150.0
+    ],
+    "worldBounds": [
+      1.45,
+      1.35
+    ],
+    "textureRectOffset": [
+      3.0129125118255615,
+      7.0267510414123535
+    ]
+  },
+  "logo-rays-alternate.png": {
+    "unityFile": "resources.assets",
+    "pathId": 900,
+    "unityName": "pack_rays_large",
+    "type": "Sprite",
+    "width": 219,
+    "height": 243,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      256.0,
+      256.0
+    ],
+    "worldBounds": [
+      2.19,
+      2.43
+    ],
+    "textureRectOffset": [
+      22.047704696655273,
+      5.033500671386719
+    ]
+  },
+  "hud-menu.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 480,
+    "unityName": "MenuUnpressed_0",
+    "type": "Sprite",
+    "width": 11,
+    "height": 13,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "rect": [
+      3.0,
+      3.0,
+      11.0,
+      13.0
+    ]
+  },
+  "terrain-rim-0.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1083,
+    "unityName": "Environment Sheet_15",
+    "type": "Sprite",
+    "width": 29,
+    "height": 25,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      82.0,
+      0.0,
+      29.0,
+      25.0
+    ],
+    "worldBounds": [
+      0.29,
+      0.25
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ]
+  },
+  "terrain-rim-1.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1096,
+    "unityName": "Environment Sheet_16",
+    "type": "Sprite",
+    "width": 29,
+    "height": 25,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      115.0,
+      0.0,
+      29.0,
+      25.0
+    ],
+    "worldBounds": [
+      0.29,
+      0.25
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ]
+  },
+  "terrain-rim-2.png": {
+    "unityFile": "resources.assets",
+    "pathId": 1123,
+    "unityName": "Environment Sheet_12",
+    "type": "Sprite",
+    "width": 23,
+    "height": 29,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      84.0,
+      32.0,
+      23.0,
+      29.0
+    ],
+    "worldBounds": [
+      0.23,
+      0.29
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ]
+  },
+  "mastery-fly.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1048,
+    "unityName": "props_6",
+    "unityType": "Sprite"
+  },
+  "mastery-blue.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 750,
+    "unityName": "stat_icons_29",
+    "type": "Sprite",
+    "width": 16,
+    "height": 16,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "rect": [
+      144.0,
+      208.0,
+      16.0,
+      16.0
+    ]
+  },
+  "hud-coin.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 968,
+    "unityName": "stat_icons_28",
+    "type": "Sprite",
+    "width": 16,
+    "height": 16,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "rect": [
+      128.0,
+      208.0,
+      16.0,
+      16.0
+    ]
+  },
+  "cursor-ring.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 902,
+    "unityName": "Shape_Circle",
+    "type": "Sprite",
+    "width": 64,
+    "height": 64,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      64.0,
+      64.0
+    ],
+    "worldBounds": [
+      0.64,
+      0.64
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ]
+  },
+  "tower-intro.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 590,
+    "unityName": "Tower_Upgradable_29",
+    "type": "Sprite",
+    "width": 48,
+    "height": 76,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.20000000298023224
+    ],
+    "rect": [
+      192.0,
+      288.0,
+      96.0,
+      96.0
+    ],
+    "textureRectOffset": [
+      24.063064575195312,
+      0.0
+    ]
+  },
+  "tower-shadow-0.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 571,
+    "unityName": "Tower Shadow_0",
+    "type": "Sprite",
+    "width": 103,
+    "height": 55,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "rect": [
+      7.0,
+      24.0,
+      103.0,
+      55.0
+    ]
+  },
+  "tutorial-cursor.png": {
+    "unityFile": "resources.assets",
+    "pathId": 909,
+    "unityName": "cursor1",
+    "type": "Sprite",
+    "width": 26,
+    "height": 29,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      26.0,
+      29.0
+    ],
+    "worldBounds": [
+      0.26,
+      0.29
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ]
+  },
+  "window-outline.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 875,
+    "unityName": "Window_Outline",
+    "type": "Sprite",
+    "width": 15,
+    "height": 15,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      15.0,
+      15.0
+    ]
+  },
+  "cutscene-01-a.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 1198,
+    "unityName": "Cutscene01-A_0",
+    "type": "Sprite",
+    "width": 480,
+    "height": 256,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      480.0,
+      256.0
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "cutscene": "Cutscene1"
+  },
+  "cutscene-01-b.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 560,
+    "unityName": "Cutscene01-B_0",
+    "type": "Sprite",
+    "width": 480,
+    "height": 256,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      480.0,
+      256.0
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "cutscene": "Cutscene1"
+  },
+  "cutscene-01-c.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 536,
+    "unityName": "Cutscene01-C_0",
+    "type": "Sprite",
+    "width": 480,
+    "height": 256,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      480.0,
+      256.0
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "cutscene": "Cutscene1"
+  },
+  "cutscene-01-d.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 426,
+    "unityName": "Cutscene01-D_0",
+    "type": "Sprite",
+    "width": 480,
+    "height": 256,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      480.0,
+      256.0
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "cutscene": "Cutscene1"
+  },
+  "cutscene-01-f.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 838,
+    "unityName": "Cutscene01-F",
+    "type": "Sprite",
+    "width": 308,
+    "height": 133,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      480.0,
+      256.0
+    ],
+    "textureRectOffset": [
+      105.07611846923828,
+      23.076120376586914
+    ],
+    "cutscene": "Cutscene1"
+  },
+  "cutscene-01-g.png": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 837,
+    "unityName": "Cutscene01-G",
+    "type": "Sprite",
+    "width": 480,
+    "height": 256,
+    "pixelsPerUnit": 100.0,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "rect": [
+      0.0,
+      0.0,
+      480.0,
+      256.0
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "cutscene": "Cutscene1"
+  },
+  "cutscene-portal-open.wav": {
+    "unityFile": "sharedassets1.assets",
+    "pathId": 406,
+    "unityName": "Generic_Portal_Open",
+    "type": "AudioClip"
+  }
+}

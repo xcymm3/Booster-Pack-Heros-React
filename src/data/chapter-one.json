@@ -1,0 +1,210 @@
+{
+  "unityVersion": "6000.4.10f1",
+  "chapter": {
+    "name": "Drums in the Dark",
+    "rewardPack": "Pack2_Advanced",
+    "spawnBursts": [
+      {
+        "id": "Monster1_Caveling",
+        "start": 2.0,
+        "duration": 3.0,
+        "count": 5
+      },
+      {
+        "id": "Monster1_Caveling",
+        "start": 5.0,
+        "duration": 3.0,
+        "count": 10
+      },
+      {
+        "id": "Monster1_Caveling",
+        "start": 13.0,
+        "duration": 3.0,
+        "count": 15
+      },
+      {
+        "id": "Monster1_Caveling",
+        "start": 20.0,
+        "duration": 5.0,
+        "count": 30
+      },
+      {
+        "id": "Monster1_Raider",
+        "start": 20.0,
+        "duration": 3.0,
+        "count": 5
+      },
+      {
+        "id": "Monster1_Raider",
+        "start": 30.0,
+        "duration": 3.0,
+        "count": 10
+      },
+      {
+        "id": "Boss1_Apogre",
+        "start": 35.0,
+        "duration": 1.0,
+        "count": 1
+      }
+    ]
+  },
+  "basicPack": {
+    "maxHP": 2.0,
+    "shopCost": 2,
+    "cardCount": 1,
+    "frenzyChance": 0.050000001,
+    "masteryOnOpen": 1,
+    "resourceVariance": 0,
+    "newUnitPityMinPacks": 9,
+    "newUnitPityMaxPacks": 12,
+    "newFoilPityMinPacks": 18,
+    "newFoilPityMaxPacks": 26,
+    "fixedDrops": [
+      [
+        "Hero1_Squire"
+      ],
+      [
+        "Hero1_Squire"
+      ],
+      [
+        "Hero1_Squire"
+      ],
+      [
+        "Hero1_Barbarian"
+      ],
+      [
+        "Hero1_Squire"
+      ],
+      [
+        "Hero1_Archer"
+      ]
+    ],
+    "pool": [
+      {
+        "id": "Hero1_Squire",
+        "weight": 60.0
+      },
+      {
+        "id": "Hero1_Barbarian",
+        "weight": 30.0
+      },
+      {
+        "id": "Hero1_Archer",
+        "weight": 9.0
+      },
+      {
+        "id": "Tome_Thunderstorm",
+        "weight": 1.0
+      }
+    ]
+  },
+  "heroes": {
+    "Hero1_Archer": {
+      "rarity": 2,
+      "maxHP": 4.0,
+      "moveSpeed": 0.6000000238418579,
+      "attackType": 1,
+      "attackRange": 1.100000023841858,
+      "attackCooldown": 1.350000023841858,
+      "attackDamage": 1.0,
+      "areaAttack": 0.0,
+      "hitStunDurationSeconds": 0.5
+    },
+    "Hero1_Barbarian": {
+      "rarity": 1,
+      "maxHP": 3.0,
+      "moveSpeed": 0.800000011920929,
+      "attackRange": 0.4000000059604645,
+      "attackCooldown": 1.600000023841858,
+      "attackDamage": 2.5,
+      "areaAttack": 0.699999988079071,
+      "hitStunDurationSeconds": 1.5
+    },
+    "Hero1_Squire": {
+      "rarity": 0,
+      "maxHP": 4.0,
+      "moveSpeed": 1.0,
+      "attackRange": 0.30000001192092896,
+      "attackCooldown": 0.8999999761581421,
+      "attackDamage": 1.0,
+      "areaAttack": 0.0,
+      "hitStunDurationSeconds": 0.5
+    }
+  },
+  "monsters": {
+    "Boss1_Apogre": {
+      "monsterType": 4,
+      "knockbackReceivedMultiplier": 0,
+      "maxHP": 250.0,
+      "moveSpeed": 0.4000000059604645,
+      "attackRange": 0.5,
+      "attackSpeed": 0.6000000238418579,
+      "aggroRange": 2.0,
+      "attackDamage": 3.0,
+      "attackDamageToTower": 2.0,
+      "areaAttack": 1.0,
+      "sounds": { "attackSFX": "apogre-attack.wav" },
+      "interactionRadius": 0.20000000298023224,
+      "coinReward": 0,
+      "masteryReward": 100,
+      "masteryRewardPer10PercentDamage": 10,
+      "spriteScale": 1.5,
+      "bossAdditionalBarYOffset": 30
+    },
+    "Monster1_Caveling": {
+      "monsterType": 0,
+      "knockbackReceivedMultiplier": 1,
+      "maxHP": 2.0,
+      "moveSpeed": 0.4000000059604645,
+      "attackRange": 0.4000000059604645,
+      "attackSpeed": 1.25,
+      "aggroRange": 2.0,
+      "attackDamage": 1.0,
+      "attackDamageToTower": 0.6000000238418579,
+      "interactionRadius": 0.0,
+      "coinReward": 0,
+      "masteryReward": 1,
+      "masteryRewardPer10PercentDamage": 0,
+      "spriteScale": 1.0,
+      "bossAdditionalBarYOffset": -5
+    },
+    "Monster1_Raider": {
+      "monsterType": 0,
+      "knockbackReceivedMultiplier": 1,
+      "maxHP": 5.0,
+      "moveSpeed": 0.5,
+      "attackRange": 0.4000000059604645,
+      "attackSpeed": 1.2000000476837158,
+      "aggroRange": 2.0,
+      "attackDamage": 1.5,
+      "attackDamageToTower": 1.0,
+      "interactionRadius": 0.0,
+      "coinReward": 0,
+      "masteryReward": 5,
+      "masteryRewardPer10PercentDamage": 0,
+      "spriteScale": 1.0
+    }
+  },
+  "tower": {
+    "maxHP": 4.0,
+    "monsterTowerAttackRangeOffset": 0.20000000298023224
+  },
+  "cursor": {
+    "baseTickInterval": 1.0,
+    "baseDamagePerTick": 1.0,
+    "baseRadius": 0.20000000298023224,
+    "baseRadiusMobile": 0.30000001192092896
+  },
+  "salary": 3,
+  "thunderstorm": {
+    "duration": 12,
+    "tick": 0.6,
+    "casts": 2,
+    "damageRange": [2, 4],
+    "stun": 0.4,
+    "viewportMargin": 0.04,
+    "towerDistanceSquaredBias": 2.25,
+    "castScatterRadius": 0.35,
+    "castSound": "chapter-2-3/600-04_electric_burst.wav"
+  }
+}

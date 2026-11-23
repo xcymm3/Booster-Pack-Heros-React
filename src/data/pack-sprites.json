@@ -1,0 +1,620 @@
+{
+  "chapter-2-3/900-pack_rays_large.png": {
+    "pathId": 900,
+    "rect": [0, 0, 256, 256],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [22.047704696655273, 5.033500671386719],
+    "textureOrigin": [22, 5],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/906-pack_glow.png": {
+    "pathId": 906,
+    "rect": [0, 0, 88, 88],
+    "pivot": [0.5, 0.5],
+    "textureRectOffset": [0, 0],
+    "textureOrigin": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "chapter-2-3/910-pack_rays.png": {
+    "pathId": 910,
+    "rect": [0, 0, 128, 128],
+    "pivot": [0.48046875, 0.51953125],
+    "textureRectOffset": [0, 0],
+    "textureOrigin": [0, 0],
+    "pixelsPerUnit": 100
+  },
+  "pack-closed.png": {
+    "pathId": 976,
+    "rect": [
+      0.0,
+      40.0,
+      40.0,
+      39.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      0.0
+    ],
+    "textureOrigin": [
+      7,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "pack-open.png": {
+    "pathId": 913,
+    "rect": [
+      40.0,
+      40.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076118469238281,
+      0.0
+    ],
+    "textureOrigin": [
+      47,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "pack-tear.png": {
+    "pathId": 972,
+    "rect": [
+      0.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      33.07612228393555
+    ],
+    "textureOrigin": [
+      7,
+      33
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/850-booster2_v2_0.png": {
+    "pathId": 850,
+    "rect": [
+      0.0,
+      40.0,
+      40.0,
+      39.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      0.0
+    ],
+    "textureOrigin": [
+      7,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/927-booster2_v2_1.png": {
+    "pathId": 927,
+    "rect": [
+      40.0,
+      40.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076118469238281,
+      0.0
+    ],
+    "textureOrigin": [
+      47,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/866-booster2_v2_3.png": {
+    "pathId": 866,
+    "rect": [
+      0.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      33.07612228393555
+    ],
+    "textureOrigin": [
+      7,
+      33
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/934-booster2_v2_2.png": {
+    "pathId": 934,
+    "rect": [
+      83.0,
+      44.0,
+      33.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.07611846923828125,
+      0.07612228393554688
+    ],
+    "textureOrigin": [
+      83,
+      44
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/946-booster2_v2_5.png": {
+    "pathId": 946,
+    "rect": [
+      80.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.04290771484375,
+      0.07612049579620361
+    ],
+    "textureOrigin": [
+      82,
+      0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/890-booster2_v2_4.png": {
+    "pathId": 890,
+    "rect": [
+      40.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "textureOrigin": [
+      40,
+      0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/971-boostermagic_v2_0.png": {
+    "pathId": 971,
+    "rect": [
+      0.0,
+      40.0,
+      40.0,
+      39.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      0.0
+    ],
+    "textureOrigin": [
+      7,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/835-boostermagic_v2_1.png": {
+    "pathId": 835,
+    "rect": [
+      40.0,
+      40.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076118469238281,
+      0.0
+    ],
+    "textureOrigin": [
+      47,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/897-boostermagic_v2_3.png": {
+    "pathId": 897,
+    "rect": [
+      0.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      33.07612228393555
+    ],
+    "textureOrigin": [
+      7,
+      33
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/849-boostermagic_v2_2.png": {
+    "pathId": 849,
+    "rect": [
+      83.0,
+      44.0,
+      33.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.07611846923828125,
+      0.07612228393554688
+    ],
+    "textureOrigin": [
+      83,
+      44
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/886-boostermagic_v2_5.png": {
+    "pathId": 886,
+    "rect": [
+      80.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.04290771484375,
+      0.07612049579620361
+    ],
+    "textureOrigin": [
+      82,
+      0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/827-boostermagic_v2_4.png": {
+    "pathId": 827,
+    "rect": [
+      40.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.0,
+      0.0
+    ],
+    "textureOrigin": [
+      40,
+      0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/966-boosterroyal_0.png": {
+    "pathId": 966,
+    "rect": [
+      0.0,
+      40.0,
+      40.0,
+      39.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      0.0
+    ],
+    "textureOrigin": [
+      7,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/838-boosterroyal_1.png": {
+    "pathId": 838,
+    "rect": [
+      40.0,
+      40.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076118469238281,
+      0.0
+    ],
+    "textureOrigin": [
+      47,
+      40
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/869-boosterroyal_3.png": {
+    "pathId": 869,
+    "rect": [
+      0.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      7.076120376586914,
+      33.07612228393555
+    ],
+    "textureOrigin": [
+      7,
+      33
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/924-boosterroyal_2.png": {
+    "pathId": 924,
+    "rect": [
+      83.0,
+      44.0,
+      33.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.07611846923828125,
+      0.07612228393554688
+    ],
+    "textureOrigin": [
+      83,
+      44
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/816-boosterroyal_5.png": {
+    "pathId": 816,
+    "rect": [
+      80.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.04290771484375,
+      0.07612049579620361
+    ],
+    "textureOrigin": [
+      82,
+      0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/882-boosterrelic_0.png": {
+    "pathId": 882,
+    "rect": [
+      0.0,
+      40.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      6.076120376586914,
+      3.0761184692382812
+    ],
+    "textureOrigin": [
+      6,
+      43
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/965-boosterrelic_1.png": {
+    "pathId": 965,
+    "rect": [
+      40.0,
+      40.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      5.076118469238281,
+      3.0761184692382812
+    ],
+    "textureOrigin": [
+      45,
+      43
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/978-boosterrelic_3.png": {
+    "pathId": 978,
+    "rect": [
+      0.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      5.076120376586914,
+      23.076120376586914
+    ],
+    "textureOrigin": [
+      5,
+      23
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/942-booster_delivery_2.png": {
+    "pathId": 942,
+    "rect": [
+      80.0,
+      40.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.0761184692382812,
+      4.076118469238281
+    ],
+    "textureOrigin": [
+      82,
+      44
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/847-booster_delivery_5.png": {
+    "pathId": 847,
+    "rect": [
+      80.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.04290771484375,
+      0.07612049579620361
+    ],
+    "textureOrigin": [
+      80,
+      0
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/973-booster1_v2_2.png": {
+    "pathId": 973,
+    "rect": [
+      83.0,
+      44.0,
+      33.0,
+      32.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      0.07611846923828125,
+      0.07612228393554688
+    ],
+    "textureOrigin": [
+      83,
+      44
+    ],
+    "pixelsPerUnit": 100.0
+  },
+  "chapter-2-3/889-booster1_v2_5.png": {
+    "pathId": 889,
+    "rect": [
+      80.0,
+      0.0,
+      40.0,
+      40.0
+    ],
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "textureRectOffset": [
+      2.04290771484375,
+      0.07612049579620361
+    ],
+    "textureOrigin": [
+      82,
+      0
+    ],
+    "pixelsPerUnit": 100.0
+  }
+}

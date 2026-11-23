@@ -1,0 +1,432 @@
+@font-face {
+  font-family: "BPH Noto Sans SC";
+  src: url('../../assets/menu/noto-sans-sc-menu.woff2') format('woff2');
+  font-display: swap;
+}
+
+.bph-menu {
+  --menu-ink: #d4d5c6;
+  --menu-gold: #d0c279;
+  position: absolute;
+  inset: 0;
+  z-index: 20;
+  isolation: isolate;
+  overflow: hidden;
+  color: var(--menu-ink);
+  font: 3.2cqh / 1.15 "Jersey 10", "BPH Noto Sans SC", var(--font-ui);
+  user-select: none;
+}
+
+.bph-title-screen {
+  background: radial-gradient(ellipse at 50% 49%, #11201b 0, #0e1d18 49%, #061612 100%);
+  box-shadow: inset 0 0 1.3cqh 0.85cqh #020704d4;
+}
+
+.bph-title-logo,
+.bph-title-tower {
+  position: absolute;
+  left: 50%;
+  display: block;
+  height: auto;
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+
+.bph-title-logo {
+  top: 7.5%;
+  width: 37.5%;
+  filter: brightness(.61) drop-shadow(0 .3cqh .1cqh #060707);
+}
+
+.bph-title-screen[lang="en"] .bph-title-logo {
+  top: 5.4%;
+  width: 34%;
+}
+
+.bph-title-tower {
+  top: 28.55%;
+  width: 8.1%;
+  image-rendering: pixelated;
+  filter: brightness(.97) drop-shadow(0 1.1cqh 1.8cqh #050a08);
+}
+
+.bph-title-chapter {
+  position: absolute;
+  left: 50%;
+  bottom: 16.5%;
+  width: 50%;
+  display: grid;
+  gap: 0.4cqh;
+  text-align: center;
+  transform: translateX(-50%);
+  text-shadow: 0 .2cqh .15cqh #090e0b;
+}
+
+.bph-title-chapter strong {
+  color: #c5c7b8;
+  font-size: 5.1cqh;
+  font-weight: 500;
+}
+
+.bph-title-chapter span {
+  color: #aab0a1;
+  font-size: 2.45cqh;
+}
+
+.bph-menu .bph-menu-button {
+  min-width: 0;
+  margin: 0;
+  padding: .45cqh 1.05cqw;
+  display: inline-grid;
+  place-items: center;
+  border: solid .98cqh transparent;
+  border-image: var(--menu-button) 7 fill stretch;
+  background: none;
+  color: inherit;
+  text-align: center;
+  text-decoration: none;
+  font: inherit;
+  text-shadow: 0 .24cqh .18cqh #171a13cc;
+  cursor: pointer;
+  image-rendering: pixelated;
+}
+
+.bph-menu .bph-menu-button:where(:not(:disabled)):hover {
+  filter: brightness(1.24);
+}
+
+.bph-menu .bph-menu-button:active {
+  filter: brightness(.95);
+}
+
+.bph-menu-button:focus-visible,
+.bph-setting-cycle-controls button:focus-visible,
+.bph-menu :where(input, select):focus-visible {
+  outline: .25cqh solid var(--menu-gold);
+  outline-offset: .25cqh;
+}
+
+.bph-menu .bph-menu-button:disabled {
+  opacity: .56;
+  cursor: default;
+}
+
+.bph-menu .bph-menu-button.is-gold {
+  border-image-source: var(--menu-button-gold);
+  color: var(--menu-gold);
+}
+
+.bph-title-play {
+  position: absolute;
+  left: 50%;
+  bottom: 5.35%;
+  width: 18.75%;
+  height: 8.34%;
+  transform: translateX(-50%);
+}
+
+.bph-menu .bph-title-play {
+  color: #e2d29e;
+  font-size: 4.35cqh;
+}
+
+.bph-title-actions {
+  position: absolute;
+  right: 2.35%;
+  bottom: 5.1%;
+  width: 10.94%;
+  display: grid;
+  gap: 1.14cqh;
+}
+
+.bph-title-actions .bph-menu-button {
+  height: 6.12cqh;
+  padding-inline: 0;
+  font-size: 2.6cqh;
+  white-space: nowrap;
+}
+
+.bph-title-developers {
+  position: absolute;
+  top: 3.3%;
+  right: 2.72%;
+  display: flex;
+  gap: .8cqw;
+}
+
+.bph-title-developers .bph-menu-button {
+  width: 4.32cqw;
+  height: 6.9cqh;
+  padding: 0;
+  filter: brightness(.82);
+}
+
+.bph-title-developers img {
+  width: 2.5cqw;
+  height: 4.8cqh;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.bph-title-version {
+  position: absolute;
+  right: 14.8%;
+  bottom: 2.45%;
+  color: #728077;
+  font: 1.8cqh / 1 var(--font-numbers);
+}
+
+.bph-menu-modal {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: #020504bf;
+}
+
+.bph-menu-popup {
+  min-width: 34%;
+  max-width: 55%;
+  padding: 3cqh 3cqw;
+  display: grid;
+  gap: 2.1cqh;
+  background: #242923;
+  border: .38cqh solid #586051;
+  box-shadow: 0 0 0 .35cqh #141914, 0 1.7cqh 4cqh #000a;
+  text-align: center;
+}
+
+.bph-menu-popup p,
+.bph-menu-popup h2 {
+  margin: 0;
+}
+
+.bph-menu-row {
+  display: flex;
+  justify-content: center;
+  gap: .75cqw;
+}
+
+.bph-menu-popup .bph-menu-button,
+.bph-menu-row .bph-menu-button {
+  min-width: 8.5cqw;
+}
+
+.bph-menu-credits {
+  position: absolute;
+  inset: 0;
+  background: #050807;
+  text-align: center;
+}
+
+.bph-credit-roll {
+  position: absolute;
+  inset: 0 0 13%;
+  padding: 14cqh 0 9cqh;
+  overflow: auto;
+  scrollbar-color: #46564b transparent;
+  overscroll-behavior: contain;
+}
+
+.bph-credit-roll img {
+  width: auto;
+  max-width: 22cqw;
+  max-height: 11cqh;
+  margin: 1.5cqh auto;
+  image-rendering: pixelated;
+}
+
+.bph-credit-roll section {
+  margin: 5cqh auto;
+}
+
+.bph-credit-roll h2,
+.bph-credit-roll h3,
+.bph-credit-roll p {
+  margin: 0;
+  white-space: pre-line;
+}
+
+.bph-credit-roll h3 {
+  margin-top: 1.6cqh;
+  color: #c5b274;
+  font-weight: normal;
+}
+
+.bph-settings {
+  position: relative;
+  width: 50%;
+  min-height: 62%;
+  padding: 3.35cqh 2.95cqw 12cqh;
+  display: flex;
+  flex-direction: column;
+}
+
+.bph-settings-tabs {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: .45cqw;
+}
+
+.bph-settings-tabs .bph-menu-button {
+  min-height: 6cqh;
+  white-space: nowrap;
+  font-size: 2.7cqh;
+}
+
+.bph-settings-tabs .bph-menu-button[aria-pressed="true"] {
+  border-image-source: var(--menu-button-gold);
+}
+
+.bph-settings-content {
+  width: 61%;
+  margin: 3.8cqh auto 0;
+  display: grid;
+  align-content: start;
+  gap: 1.55cqh;
+  font-size: 2.6cqh;
+}
+
+.bph-settings-content .bph-menu-button {
+  min-height: 6cqh;
+}
+
+.bph-menu .bph-settings-back {
+  position: absolute;
+  bottom: 1.7cqh;
+  left: 50%;
+  width: 13cqw;
+  height: 7cqh;
+  transform: translateX(-50%);
+}
+
+.bph-setting-range,
+.bph-setting-select,
+.bph-setting-cycle {
+  display: grid;
+  gap: .3cqh;
+}
+
+.bph-setting-cycle-controls {
+  display: grid;
+  grid-template-columns: 4.7cqh 1fr 4.7cqh;
+  align-items: center;
+  text-align: center;
+}
+
+.bph-setting-cycle-controls button {
+  position: relative;
+  grid-row: 1;
+  min-height: 4.7cqh;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.bph-setting-cycle-controls button[data-direction='-1'] {
+  grid-column: 1;
+}
+
+.bph-setting-cycle-controls button::before {
+  content: '';
+  position: absolute;
+  inset: 18%;
+  background: var(--menu-dropdown) center / contain no-repeat;
+  transform: rotate(90deg);
+}
+
+.bph-setting-cycle-controls button[data-direction='1'] {
+  grid-column: 3;
+}
+
+.bph-setting-cycle-controls button[data-direction='1']::before {
+  transform: rotate(-90deg);
+}
+
+.bph-setting-cycle-controls output {
+  grid-area: 1 / 2;
+}
+
+.bph-setting-range input {
+  appearance: none;
+  margin: 0;
+  width: 100%;
+  height: 3cqh;
+  background: transparent;
+  cursor: pointer;
+}
+
+.bph-setting-range input::-webkit-slider-runnable-track {
+  height: 1.45cqh;
+  border: .5cqh solid transparent;
+  border-image: var(--menu-slider-track) 3 fill stretch;
+  image-rendering: pixelated;
+}
+
+.bph-setting-range input::-webkit-slider-thumb {
+  appearance: none;
+  width: 2.73cqh;
+  height: 2.73cqh;
+  margin-top: -1.13cqh;
+  background: var(--menu-slider-thumb) center / contain no-repeat;
+  image-rendering: pixelated;
+}
+
+.bph-setting-range input::-moz-range-track {
+  height: 1.45cqh;
+  background: var(--menu-slider-track) center / 100% 100% no-repeat;
+  image-rendering: pixelated;
+}
+
+.bph-setting-range input::-moz-range-thumb {
+  width: 2.73cqh;
+  height: 2.73cqh;
+  border: none;
+  background: var(--menu-slider-thumb) center / contain no-repeat;
+  image-rendering: pixelated;
+}
+
+.bph-setting-check {
+  min-height: 3.9cqh;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: .55cqw;
+  cursor: pointer;
+}
+
+.bph-setting-check input {
+  appearance: none;
+  flex: none;
+  width: 3.25cqh;
+  height: 3.25cqh;
+  margin: 0;
+  border: .45cqh solid transparent;
+  border-image: var(--menu-button) 7 fill stretch;
+  image-rendering: pixelated;
+  cursor: inherit;
+}
+
+.bph-setting-check input:checked {
+  background: var(--menu-checkmark) center / 93% auto no-repeat;
+}
+
+.bph-setting-check input:disabled {
+  cursor: default;
+  opacity: .55;
+}
+
+.bph-setting-select select {
+  appearance: none;
+  min-height: 4.7cqh;
+  padding: 0 2.15cqw 0 .6cqw;
+  border: .48cqh solid transparent;
+  border-image: var(--menu-button) 7 fill stretch;
+  background: #242923 var(--menu-dropdown) right .35cqw center / 1.55cqh no-repeat;
+  color: inherit;
+  font: inherit;
+}
+
+.bph-menu-exited {
+  background: #000;
+}

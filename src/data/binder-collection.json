@@ -1,0 +1,1131 @@
+{
+  "cards": {
+    "Hero1_Squire": {
+      "rarity": 0,
+      "heroClass": 1,
+      "sourcePack": "Pack1_Basic",
+      "description": {
+        "en": "The basic unit",
+        "zh-CN": "基础作战单位"
+      },
+      "foil": "+100% HP, +50% damage",
+      "source": [
+        "resources.assets",
+        1412
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        31,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        695
+      ]
+    },
+    "Hero1_Barbarian": {
+      "rarity": 1,
+      "heroClass": 6,
+      "sourcePack": "Pack1_Basic",
+      "description": {
+        "en": "Attacks in a cone",
+        "zh-CN": "锥形范围攻击"
+      },
+      "foil": "+100% HP, +50% area attack",
+      "source": [
+        "resources.assets",
+        1411
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        28,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1122
+      ]
+    },
+    "Hero1_Archer": {
+      "rarity": 2,
+      "heroClass": 3,
+      "sourcePack": "Pack1_Basic",
+      "description": {
+        "en": "Ranged attacks",
+        "zh-CN": "远程攻击"
+      },
+      "foil": "+100% HP, 2x attack speed",
+      "source": [
+        "resources.assets",
+        1410
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        31,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1097
+      ]
+    },
+    "Tome_Thunderstorm": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": "Pack1_Basic",
+      "description": {
+        "en": "casts thunderbolts every few seconds",
+        "zh-CN": "每隔数秒便会施放落雷"
+      },
+      "foil": "+50% duration",
+      "source": [
+        "resources.assets",
+        1499
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 2,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "resources.assets",
+        836
+      ]
+    },
+    "Hero2_Monk": {
+      "rarity": 0,
+      "heroClass": 5,
+      "sourcePack": "Pack2_Advanced",
+      "description": {
+        "en": "Dashes to multiple enemies on attack",
+        "zh-CN": "可以冲刺攻击多个敌人"
+      },
+      "foil": "+100% HP, 2x attack speed, +50% move speed",
+      "source": [
+        "resources.assets",
+        1416
+      ],
+      "binderDiscoveryBonus": 50,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 2,
+      "portraitSize": [
+        31,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1080
+      ]
+    },
+    "Hero2_Knight": {
+      "rarity": 1,
+      "heroClass": 1,
+      "sourcePack": "Pack2_Advanced",
+      "description": {
+        "en": "Has a chance of blocking incoming attacks",
+        "zh-CN": "有几率格挡来袭攻击"
+      },
+      "foil": "+100% HP, +50% block chance",
+      "source": [
+        "resources.assets",
+        1415
+      ],
+      "binderDiscoveryBonus": 50,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 2,
+      "portraitSize": [
+        34,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1010
+      ]
+    },
+    "Hero2_Pyromancer": {
+      "rarity": 2,
+      "heroClass": 4,
+      "sourcePack": "Pack2_Advanced",
+      "description": {
+        "en": "Casts fireballs that deal area damage",
+        "zh-CN": "可以施放火球，造成范围伤害"
+      },
+      "foil": "+100% HP, +2 extra fireballs",
+      "source": [
+        "resources.assets",
+        1417
+      ],
+      "binderDiscoveryBonus": 50,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 2,
+      "portraitSize": [
+        29,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        758
+      ]
+    },
+    "Tome_RaiseDead": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": "Pack2_Advanced",
+      "description": {
+        "en": "summons skeletons every few seconds",
+        "zh-CN": "每个数秒便会召唤骷髅"
+      },
+      "foil": "+50% summon damage",
+      "source": [
+        "resources.assets",
+        1498
+      ],
+      "binderDiscoveryBonus": 100,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 3,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "resources.assets",
+        834
+      ]
+    },
+    "Hero3_WitchDoctor": {
+      "rarity": 0,
+      "heroClass": 6,
+      "sourcePack": "Pack3_Magic",
+      "description": {
+        "en": "Spreads infection with cursed bombs",
+        "zh-CN": "使用诅咒炸弹散播染疫效果"
+      },
+      "foil": "+100% HP, +1 spell cast",
+      "source": [
+        "resources.assets",
+        1421
+      ],
+      "binderDiscoveryBonus": 500,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 3,
+      "portraitSize": [
+        34,
+        27
+      ],
+      "portraitSource": [
+        "resources.assets",
+        662
+      ]
+    },
+    "Hero3_DemonSlayer": {
+      "rarity": 1,
+      "heroClass": 3,
+      "sourcePack": "Pack3_Magic",
+      "description": {
+        "en": "Attacks have a chance of dealing critical damage",
+        "zh-CN": "攻击有几率造成暴击伤害"
+      },
+      "foil": "+100% HP, +50% crit chance & damage",
+      "source": [
+        "resources.assets",
+        1418
+      ],
+      "binderDiscoveryBonus": 500,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 3,
+      "portraitSize": [
+        30,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        763
+      ]
+    },
+    "Hero3_Illusionist": {
+      "rarity": 2,
+      "heroClass": 5,
+      "sourcePack": "Pack3_Magic",
+      "description": {
+        "en": "Spawns clones that multiply resources gained. Explodes on death.",
+        "zh-CN": "可以召唤镜像，提高资源的获取倍率。自身死亡时爆炸。"
+      },
+      "foil": "+100% HP, +2% mastery per Illusionist",
+      "source": [
+        "resources.assets",
+        1419
+      ],
+      "binderDiscoveryBonus": 500,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 3,
+      "portraitSize": [
+        30,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        793
+      ]
+    },
+    "Hero3_Portal": {
+      "rarity": 3,
+      "heroClass": 0,
+      "sourcePack": "Pack3_Magic",
+      "description": {
+        "en": "Spawns allies from your collection",
+        "zh-CN": "可以召唤你已发现的友方单位"
+      },
+      "foil": "+100% HP, 2x attack & spell speed",
+      "source": [
+        "resources.assets",
+        1420
+      ],
+      "binderDiscoveryBonus": 500,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 4,
+      "portraitSize": [
+        35,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        702
+      ]
+    },
+    "Hero4_Bannerman": {
+      "rarity": 0,
+      "heroClass": 1,
+      "sourcePack": "Pack4_Royal",
+      "description": {
+        "en": "Charges allies on attack",
+        "zh-CN": "攻击时强化队友"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "resources.assets",
+        1422
+      ],
+      "binderDiscoveryBonus": 5000,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 5,
+      "portraitSize": [
+        52,
+        62
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1116
+      ]
+    },
+    "Hero4_Duelist": {
+      "rarity": 1,
+      "heroClass": 6,
+      "sourcePack": "Pack4_Royal",
+      "description": {
+        "en": "Leaps at enemies",
+        "zh-CN": "可以跳向敌人"
+      },
+      "foil": "+100% HP, +50% leap range",
+      "source": [
+        "resources.assets",
+        1423
+      ],
+      "binderDiscoveryBonus": 5000,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 5,
+      "portraitSize": [
+        30,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        798
+      ]
+    },
+    "Hero4_Stormcaller": {
+      "rarity": 2,
+      "heroClass": 4,
+      "sourcePack": "Pack4_Royal",
+      "description": {
+        "en": "Conjures wandering tornadoes",
+        "zh-CN": "可以召唤出四处游荡的龙卷风"
+      },
+      "foil": "+100% HP, +2 tornado casts",
+      "source": [
+        "resources.assets",
+        1424
+      ],
+      "binderDiscoveryBonus": 5000,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 5,
+      "portraitSize": [
+        31,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        637
+      ]
+    },
+    "Tome_DragonsCall": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": "Pack4_Royal",
+      "description": {
+        "en": "A dragon flies across the field",
+        "zh-CN": "召唤一条巨龙飞过战场"
+      },
+      "foil": "+1 extra dragon per cast",
+      "source": [
+        "resources.assets",
+        1497
+      ],
+      "binderDiscoveryBonus": 10000,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 5,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "resources.assets",
+        880
+      ]
+    },
+    "Hero6_Shotgun": {
+      "rarity": 0,
+      "heroClass": 3,
+      "sourcePack": "Pack5_Skeleton",
+      "description": {
+        "en": "Fires a cone of arrows",
+        "zh-CN": "可以发射多支箭矢，攻击锥形范围"
+      },
+      "foil": "+100% HP, +1 arrow",
+      "source": [
+        "sharedassets1.assets",
+        2672
+      ],
+      "binderDiscoveryBonus": 25,
+      "binderDiscoveryResource": 2,
+      "binderFoiliumDiscoveryBonus": 6,
+      "portraitSize": [
+        36,
+        31
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        434
+      ]
+    },
+    "Hero6_BloodMage": {
+      "rarity": 1,
+      "heroClass": 4,
+      "sourcePack": "Pack5_Skeleton",
+      "description": {
+        "en": "Has a chance of devouring enemies it defeats to recover HP",
+        "zh-CN": "消灭敌人时有几率将其吞噬，从而恢复生命值"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "sharedassets1.assets",
+        2671
+      ],
+      "binderDiscoveryBonus": 25,
+      "binderDiscoveryResource": 2,
+      "binderFoiliumDiscoveryBonus": 6,
+      "portraitSize": [
+        31,
+        32
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        508
+      ]
+    },
+    "Hero6_Skelewheel": {
+      "rarity": 2,
+      "heroClass": 6,
+      "sourcePack": "Pack5_Skeleton",
+      "description": {
+        "en": "Rolls into enemies on attack and bounces off the edges of the screen",
+        "zh-CN": "攻击时滚向敌人，碰到屏幕边缘后会反弹"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "sharedassets1.assets",
+        2673
+      ],
+      "binderDiscoveryBonus": 25,
+      "binderDiscoveryResource": 2,
+      "binderFoiliumDiscoveryBonus": 6,
+      "portraitSize": [
+        30,
+        30
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        448
+      ]
+    },
+    "Tome_SpectralPact": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": null,
+      "description": {
+        "en": "While on the ground, collects souls from fallen heroes. When opened, releases them as [spectral]Spectral[/spectral] heroes.",
+        "zh-CN": "未启封时，魔典会在地面上收集阵亡英雄的灵魂。启封后，将释放这些灵魂，召唤出[spectral]鬼灵[/spectral]英雄。"
+      },
+      "foil": "",
+      "source": [
+        "sharedassets1.assets",
+        2712
+      ],
+      "binderDiscoveryBonus": 50,
+      "binderDiscoveryResource": 2,
+      "binderFoiliumDiscoveryBonus": 6,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        983
+      ]
+    },
+    "Hero5_Treant": {
+      "rarity": 0,
+      "heroClass": 1,
+      "sourcePack": "Pack6_Forest",
+      "description": {
+        "en": "When it attacks, throws a seed that applies Fortify to an ally",
+        "zh-CN": "攻击时掷出一颗种子，使一名友方单位获得固守效果"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "sharedassets1.assets",
+        2670
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 5,
+      "portraitSize": [
+        48,
+        61
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        567
+      ]
+    },
+    "Hero5_Dino": {
+      "rarity": 1,
+      "heroClass": 3,
+      "sourcePack": "Pack6_Forest",
+      "description": {
+        "en": "Dashes and throws enemies",
+        "zh-CN": "可以冲向敌人并将其击飞"
+      },
+      "foil": "+100% HP, +50% charge damage",
+      "source": [
+        "sharedassets1.assets",
+        2667
+      ],
+      "binderDiscoveryBonus": 5,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        61,
+        48
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        1202
+      ]
+    },
+    "Hero5_Rider": {
+      "rarity": 1,
+      "heroClass": 3,
+      "sourcePack": "Pack6_Forest",
+      "description": {
+        "en": "Throws javelins that pierce enemies",
+        "zh-CN": "投掷可贯穿敌人的标枪"
+      },
+      "foil": "+100% HP, 2x attack speed",
+      "source": [
+        "sharedassets1.assets",
+        2669
+      ],
+      "binderDiscoveryBonus": 5,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        27,
+        32
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        509
+      ]
+    },
+    "Hero5_DinoRider": {
+      "rarity": 1,
+      "heroClass": 3,
+      "sourcePack": "Pack6_Forest",
+      "description": {
+        "en": "Dashes at enemies and fires arrows",
+        "zh-CN": "可以冲刺攻击敌人并射出火箭"
+      },
+      "foil": "+100% HP, +50% charge damage",
+      "source": [
+        "sharedassets1.assets",
+        2668
+      ],
+      "binderDiscoveryBonus": 5,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 3,
+      "portraitSize": [
+        65,
+        61
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        557
+      ]
+    },
+    "Hero5_Beastmaster": {
+      "rarity": 2,
+      "heroClass": 5,
+      "sourcePack": "Pack6_Forest",
+      "description": {
+        "en": "Spawns along with 4 animals that fight by his side",
+        "zh-CN": "登场时会带着4只与他并肩作战的动物"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "sharedassets1.assets",
+        2666
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 2,
+      "portraitSize": [
+        31,
+        32
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        515
+      ]
+    },
+    "Hero_Rat": {
+      "rarity": 0,
+      "heroClass": 7,
+      "sourcePack": "Pack6_Bush",
+      "description": {
+        "en": "Weak but quick",
+        "zh-CN": "脆弱但迅捷"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "resources.assets",
+        1431
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        32,
+        19
+      ],
+      "portraitSource": [
+        "resources.assets",
+        671
+      ]
+    },
+    "Hero_Monkey": {
+      "rarity": 2,
+      "heroClass": 7,
+      "sourcePack": "Pack6_Bush",
+      "description": {
+        "en": "Throws from a distance",
+        "zh-CN": "远距离投掷攻击"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "resources.assets",
+        1430
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        25,
+        18
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1125
+      ]
+    },
+    "Hero_Jaguar": {
+      "rarity": 1,
+      "heroClass": 7,
+      "sourcePack": "Pack6_Bush",
+      "description": {
+        "en": "Fast and deadly",
+        "zh-CN": "迅捷且致命"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "resources.assets",
+        1429
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        34,
+        20
+      ],
+      "portraitSource": [
+        "resources.assets",
+        796
+      ]
+    },
+    "Hero_Bear": {
+      "rarity": 3,
+      "heroClass": 7,
+      "sourcePack": "Pack6_Bush",
+      "description": {
+        "en": "Slow but sturdy",
+        "zh-CN": "迟缓但壮硕"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "resources.assets",
+        1428
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        36,
+        27
+      ],
+      "portraitSource": [
+        "resources.assets",
+        843
+      ]
+    },
+    "Tome_Earthquake": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": "Pack6_Forest",
+      "description": {
+        "en": "Pushes enemies away, stuns them and deals damage",
+        "zh-CN": "震退敌人，将其击晕并造成伤害。"
+      },
+      "foil": "+50% push force, +50% stun duration",
+      "source": [
+        "sharedassets1.assets",
+        2709
+      ],
+      "binderDiscoveryBonus": 20,
+      "binderDiscoveryResource": 1,
+      "binderFoiliumDiscoveryBonus": 5,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        1018
+      ]
+    },
+    "Hero7_Warlord": {
+      "rarity": 0,
+      "heroClass": 6,
+      "sourcePack": "Pack7_Arctic",
+      "description": {
+        "en": "Taunts nearby enemies, has high HP, and can't attack.",
+        "zh-CN": "嘲讽附近敌人，拥有高额生命值，但无法进行攻击"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "sharedassets1.assets",
+        2676
+      ],
+      "binderDiscoveryBonus": 5,
+      "binderDiscoveryResource": 3,
+      "binderFoiliumDiscoveryBonus": 7,
+      "portraitSize": [
+        30,
+        32
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        549
+      ]
+    },
+    "Hero7_AstralFisher": {
+      "rarity": 1,
+      "heroClass": 5,
+      "sourcePack": "Pack7_Arctic",
+      "description": {
+        "en": "Hooks distant enemies and reels them in",
+        "zh-CN": "可以钩住远处的敌人并将其拖向自身"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "sharedassets1.assets",
+        2674
+      ],
+      "binderDiscoveryBonus": 5,
+      "binderDiscoveryResource": 3,
+      "binderFoiliumDiscoveryBonus": 7,
+      "portraitSize": [
+        35,
+        31
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        547
+      ]
+    },
+    "Hero7_Icebourne": {
+      "rarity": 2,
+      "heroClass": 1,
+      "sourcePack": "Pack7_Arctic",
+      "description": {
+        "en": "Spawns orbiting swords that pierce enemies on attack",
+        "zh-CN": "能召唤出环绕在身边的飞剑，可在攻击时刺穿敌人"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "sharedassets1.assets",
+        2675
+      ],
+      "binderDiscoveryBonus": 5,
+      "binderDiscoveryResource": 3,
+      "binderFoiliumDiscoveryBonus": 7,
+      "portraitSize": [
+        27,
+        32
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        1186
+      ]
+    },
+    "Tome_Blizzard": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": "Pack7_Arctic",
+      "description": {
+        "en": "Freezes 2 enemies into ice blocks every 2 seconds",
+        "zh-CN": "每隔数秒便会冻结敌人"
+      },
+      "foil": "+1 enemy frozen per tick",
+      "source": [
+        "sharedassets1.assets",
+        2706
+      ],
+      "binderDiscoveryBonus": 15,
+      "binderDiscoveryResource": 3,
+      "binderFoiliumDiscoveryBonus": 7,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        597
+      ]
+    },
+    "Hero9_BlackHole": {
+      "rarity": 0,
+      "heroClass": 5,
+      "sourcePack": "Pack9_Cosmic",
+      "description": {
+        "en": "Teleports to enemies on attack and deals area damage",
+        "zh-CN": "攻击时可传送至敌人身边，造成范围伤害"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "resources.assets",
+        1425
+      ],
+      "binderDiscoveryBonus": 100,
+      "binderDiscoveryResource": 4,
+      "binderFoiliumDiscoveryBonus": 10,
+      "portraitSize": [
+        33,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1100
+      ]
+    },
+    "Hero9_Supernova": {
+      "rarity": 2,
+      "heroClass": 3,
+      "sourcePack": "Pack9_Cosmic",
+      "description": {
+        "en": "Throws stars that explode on contact with the cursor",
+        "zh-CN": "可以投掷星体，星体接触光标时会发生爆炸"
+      },
+      "foil": "+100% HP, +1 extra mine",
+      "source": [
+        "resources.assets",
+        1427
+      ],
+      "binderDiscoveryBonus": 100,
+      "binderDiscoveryResource": 4,
+      "binderFoiliumDiscoveryBonus": 10,
+      "portraitSize": [
+        34,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        778
+      ]
+    },
+    "Hero9_Quasar": {
+      "rarity": 1,
+      "heroClass": 4,
+      "sourcePack": "Pack9_Cosmic",
+      "description": {
+        "en": "Launches a curving quasar laser",
+        "zh-CN": "可以发射一道弧形的类星体激光"
+      },
+      "foil": "+100% HP, +2 extra quasars",
+      "source": [
+        "resources.assets",
+        1426
+      ],
+      "binderDiscoveryBonus": 100,
+      "binderDiscoveryResource": 4,
+      "binderFoiliumDiscoveryBonus": 10,
+      "portraitSize": [
+        32,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        1150
+      ]
+    },
+    "Tome_Transmutation": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": "Pack9_Cosmic",
+      "description": {
+        "en": "Spawn packs and transform all packs on screen",
+        "zh-CN": "生成卡包，并对屏幕上的所有卡包进行转化"
+      },
+      "foil": "",
+      "source": [
+        "resources.assets",
+        1500
+      ],
+      "binderDiscoveryBonus": 50,
+      "binderDiscoveryResource": 4,
+      "binderFoiliumDiscoveryBonus": 10,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "resources.assets",
+        957
+      ]
+    },
+    "Hero_Skeleton": {
+      "rarity": 0,
+      "heroClass": 0,
+      "sourcePack": "DeliveryBox",
+      "description": {
+        "en": "Back from the dead",
+        "zh-CN": "死而复生"
+      },
+      "foil": "+100% HP",
+      "source": [
+        "resources.assets",
+        1432
+      ],
+      "binderDiscoveryBonus": 10,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 1,
+      "portraitSize": [
+        31,
+        32
+      ],
+      "portraitSource": [
+        "resources.assets",
+        987
+      ]
+    },
+    "Tome_CursorDPS": {
+      "rarity": 2,
+      "heroClass": null,
+      "sourcePack": "DeliveryBox",
+      "description": {
+        "en": "increases cursor attack speed, damage and size",
+        "zh-CN": "提升光标的威力"
+      },
+      "foil": "+50% cursor area",
+      "source": [
+        "sharedassets1.assets",
+        2708
+      ],
+      "binderDiscoveryBonus": 1000,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 2,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        791
+      ]
+    },
+    "Tome_HeroFrenzy": {
+      "rarity": 3,
+      "heroClass": null,
+      "sourcePack": "Pack_Tomes",
+      "description": {
+        "en": "All heroes become giants for a short time",
+        "zh-CN": "使所有英雄在短时间内变成巨人"
+      },
+      "foil": "",
+      "source": [
+        "sharedassets1.assets",
+        2711
+      ],
+      "binderDiscoveryBonus": 0,
+      "binderDiscoveryResource": 0,
+      "binderFoiliumDiscoveryBonus": 5,
+      "portraitSize": [
+        30,
+        36
+      ],
+      "portraitSource": [
+        "sharedassets1.assets",
+        945
+      ]
+    }
+  },
+  "labels": {
+    "ui.tag.new": {
+      "en": "NEW",
+      "zh-CN": "新品"
+    },
+    "term.rarity.common": {
+      "en": "common hero",
+      "zh-CN": "普通英雄"
+    },
+    "term.rarity.common.plural": {
+      "en": "common heroes",
+      "zh-CN": "普通英雄"
+    },
+    "term.rarity.rare": {
+      "en": "rare hero",
+      "zh-CN": "稀有英雄"
+    },
+    "term.rarity.rare.plural": {
+      "en": "rare heroes",
+      "zh-CN": "稀有英雄"
+    },
+    "term.rarity.epic": {
+      "en": "epic hero",
+      "zh-CN": "史诗英雄"
+    },
+    "term.rarity.epic.plural": {
+      "en": "epic heroes",
+      "zh-CN": "史诗英雄"
+    },
+    "term.rarity.legendary": {
+      "en": "legendary hero",
+      "zh-CN": "传说英雄"
+    },
+    "term.rarity.legendary.plural": {
+      "en": "legendary heroes",
+      "zh-CN": "传说英雄"
+    },
+    "term.foil.name": {
+      "en": "Foil",
+      "zh-CN": "闪光"
+    },
+    "term.foil.name.plural": {
+      "en": "Foils",
+      "zh-CN": "闪光"
+    },
+    "ui.binder.filter.common": {
+      "en": "COMMON",
+      "zh-CN": "普通"
+    },
+    "ui.binder.filter.rare": {
+      "en": "RARE",
+      "zh-CN": "稀有"
+    },
+    "ui.binder.filter.epic": {
+      "en": "EPIC",
+      "zh-CN": "史诗"
+    },
+    "ui.binder.filter.legendary": {
+      "en": "LEGENDARY",
+      "zh-CN": "传说"
+    },
+    "ui.binder.filter.warrior": {
+      "en": "WARRIOR",
+      "zh-CN": "战士"
+    },
+    "ui.binder.filter.hunter": {
+      "en": "HUNTER",
+      "zh-CN": "猎人"
+    },
+    "ui.binder.filter.arcanist": {
+      "en": "ARCANIST",
+      "zh-CN": "奥术师"
+    },
+    "ui.binder.filter.mystic": {
+      "en": "MYSTIC",
+      "zh-CN": "秘法师"
+    },
+    "ui.binder.filter.outcast": {
+      "en": "OUTCAST",
+      "zh-CN": "流亡者"
+    },
+    "ui.binder.filter.animal": {
+      "en": "ANIMAL",
+      "zh-CN": "动物"
+    },
+    "ui.binder.filter.monster": {
+      "en": "MONSTER",
+      "zh-CN": "怪物"
+    },
+    "ui.binder.filter.building": {
+      "en": "BUILDING",
+      "zh-CN": "建筑"
+    },
+    "ui.binder.filter.all": {
+      "en": "ALL",
+      "zh-CN": "全部"
+    },
+    "ui.binder.filter.tome": {
+      "en": "TOME",
+      "zh-CN": "魔典"
+    }
+  }
+}
